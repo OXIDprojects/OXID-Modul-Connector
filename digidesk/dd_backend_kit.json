@@ -3,9 +3,9 @@
     "vendor": "digidesk",
 	"id": "dd_backend_kit",
     "type": "oxid",
-    "picture": "https://raw.githubusercontent.com/digidesk-media-solutions/dd_backend_kit/master/modules/digidesk/dd_backend_kit/ddicon.png",
+    "picture": "https://avatars1.githubusercontent.com/u/5090181",
     "price": "0.00",
-    "license": "GNU",
+    "license": "MIT",
     "desc": {
         "en": "Backend UI Kit for OXID eShop",
         "de": "Backend UI Kit for OXID eShop"

@@ -1,9 +1,9 @@
 {
-    "name": "EvoMenu / MegaMenu",
+    "name": "evoMENU / MegaMenu (EE)",
     "vendor": "digidesk",
     "type": "oxid",
     "picture": "http://www.digidesk.de/wp-content/uploads/2015/07/dd_menu_webicon_250x250-1.png",
-    "price": "49.00",
+    "price": "99.00",
     "license": "Commercial",
     "id": "0",
     "desc": {
@@ -16,7 +16,7 @@
     ],
     "versions": {
         "1.3.14": {
-            "project": "http://www.digidesk.de/produkte/evomenu-megamenu/",
+            "project": "http://www.digidesk.de/produkte/evomenu-megamenu/?attribute_pa_oxid-edition=enterprise-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.3",

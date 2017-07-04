@@ -1,0 +1,38 @@
+{
+    "name": "Live-Auswahllisten (CE/PE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2014/12/dd_live_auswahllisten_webicon_250x250.png",
+    "price": "49.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Updates prices on product details page if a surplus was chosen from select lists.",
+        "de": "Ein Modul zum Nachladen von Auswahllisten-Preisen."
+    },
+    "tags": [
+        "calculation",
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0.10": {
+            "project": "http://www.digidesk.de/produkte/live-auswahllisten/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

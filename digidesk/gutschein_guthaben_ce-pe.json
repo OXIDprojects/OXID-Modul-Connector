@@ -1,0 +1,39 @@
+{
+    "name": "Gutschein Guthaben (CE/PE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2015/07/dd_gurtschein_guthaben_webicon_250x250.png",
+    "price": "149.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Vouchers can be partially redeemed.",
+        "de": "Mit dem Modul Gutschein Guthaben können Kunden Gutscheine in Teilbeträgen einlösen. "
+    },
+    "tags": [
+        "calculation",
+        "checkout",
+        "customer management",
+        "marketing"
+    ],
+    "versions": {
+        "": {
+            "project": "http://www.digidesk.de/produkte/gutschein-guthaben/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "name": "Shop Lexikon",
+    "name": "Shop Lexikon (CE/PE)",
     "vendor": "digidesk",
     "type": "oxid",
     "picture": "http://www.digidesk.de/wp-content/uploads/2015/07/dd_lexikon_webicon_250x250.png",
@@ -17,7 +17,7 @@
     ],
     "versions": {
         "": {
-            "project": "http://www.digidesk.de/produkte/shop-lexikon/",
+            "project": "http://www.digidesk.de/produkte/shop-lexikon/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.3",

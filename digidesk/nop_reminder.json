@@ -17,7 +17,7 @@
     ],
     "versions": {
         "": {
-            "project": "http://www.digidesk.de/produkte/nop-reminder/",
+            "project": "http://www.digidesk.de/produkte/nop-reminder/?attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.2",

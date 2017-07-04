@@ -1,0 +1,34 @@
+{
+    "name": "XML Sitemap (CE/PE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2016/07/sitemap_modul_250x250.png",
+    "price": "99.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Simply create XML sitemaps for Google",
+        "de": "Zum einfachen Erstellen von XML-Sitemaps für Google & Co."
+    },
+    "tags": [
+        "seo"
+    ],
+    "versions": {
+        "": {
+            "project": "http://www.digidesk.de/produkte/xml-sitemap/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

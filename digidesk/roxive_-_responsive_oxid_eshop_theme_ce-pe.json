@@ -1,5 +1,5 @@
 {
-    "name": "RoxIVE - responsive OXID eShop Theme",
+    "name": "RoxIVE - responsive OXID eShop Theme (CE/PE)",
     "vendor": "digidesk",
     "type": "oxid",
     "picture": "http://www.digidesk.de/wp-content/uploads/2014/12/dd_roxive_webicon_250x250.png",
@@ -16,7 +16,7 @@
     ],
     "versions": {
         "1.6.0": {
-            "project": "http://www.digidesk.de/produkte/roxive-responsive-oxid-eshop-theme/",
+            "project": "http://www.digidesk.de/produkte/roxive-responsive-oxid-eshop-theme/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.3",

@@ -1,5 +1,5 @@
 {
-    "name": "Image Optimizer",
+    "name": "Image Optimizer (CE/PE)",
     "vendor": "digidesk",
     "type": "oxid",
     "picture": "http://www.digidesk.de/wp-content/uploads/2014/12/dd_optimizer_250x250.png",
@@ -17,8 +17,8 @@
         "product presentation"
     ],
     "versions": {
-        "2.0.1": {
-            "project": "http://www.digidesk.de/produkte/image-optimizer/",
+        "2.0.2": {
+            "project": "http://www.digidesk.de/produkte/image-optimizer/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.3",

@@ -1,0 +1,33 @@
+{
+    "name": "Caching-Modul (CE/PE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2016/08/caching_modul_250x250.png",
+    "price": "499.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Speed-up your Online shop with this caching module.",
+        "de": "Mit unserem Caching-Modul beschleunigen Sie Ihren Shop auf Raketengeschwindigkeit."
+    },
+    "tags": [
+        "SEO",
+        "performance"
+    ],
+    "versions": {
+        "1.2.1": {
+            "project": "http://www.digidesk.de/produkte/caching-modul/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "4.9",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

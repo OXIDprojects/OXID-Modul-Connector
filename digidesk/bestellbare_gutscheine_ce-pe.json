@@ -1,0 +1,36 @@
+{
+    "name": "Bestellbare Gutscheine (CE/PE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2015/07/dd_bestellbare_gutscheine_webicon_250x250.png",
+    "price": "499.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Offer vouchers for purchase in your Online shop.",
+        "de": "Mit dem Modul bestellbare Gutscheine können dem Kunden/Besteller des Shops Gutscheine angeboten werden. "
+    },
+    "tags": [
+        "marketing"
+    ],
+    "versions": {
+        "2.2.8": {
+            "project": "http://www.digidesk.de/produkte/bestellbare-gutscheine/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

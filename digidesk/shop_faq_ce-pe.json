@@ -1,5 +1,5 @@
 {
-    "name": "Shop FAQ",
+    "name": "Shop FAQ (CE/PE)",
     "vendor": "digidesk",
     "type": "oxid",
     "picture": "http://www.digidesk.de/wp-content/uploads/2015/07/dd_faq_250x250.png",
@@ -16,7 +16,7 @@
     ],
     "versions": {
         "1.1.3": {
-            "project": "http://www.digidesk.de/produkte/shop-faq/",
+            "project": "http://www.digidesk.de/produkte/shop-faq/?attribute_pa_oxid-edition=community-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.3",

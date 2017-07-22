@@ -1,14 +1,14 @@
 {
-    "name": "evoBLOG – das Magazin-Modul",
+    "name": "evoBLOG – das Magazin-Modul (EE)",
     "vendor": "digidesk",
     "type": "oxid",
     "picture": "http://www.digidesk.de/wp-content/uploads/2014/12/dd_Blog_250x250.png",
-    "price": "299.00",
+    "price": "599.00",
     "license": "Commercial",
     "id": "0",
     "desc": {
         "en": "Integrates a blog into your OXID eShop",
-        "de": "  Integrieren Sie einen Blog in Ihren OXID eShop!"
+        "de": "Integrieren Sie einen Blog in Ihren OXID eShop!"
     },
     "tags": [
         "content",
@@ -16,8 +16,8 @@
         "product presentation"
     ],
     "versions": {
-        "3.4.2": {
-            "project": "http://www.digidesk.de/produkte/evoblog-magazin-modul/",
+        "3.4.4": {
+            "project": "http://www.digidesk.de/produkte/evoblog-magazin-modul/?attribute_pa_oxid-edition=enterprise-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.3",

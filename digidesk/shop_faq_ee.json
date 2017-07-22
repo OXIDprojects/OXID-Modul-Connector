@@ -1,0 +1,38 @@
+{
+    "name": "Shop FAQ (EE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2015/07/dd_faq_250x250.png",
+    "price": "299.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Display general queries about your shop, shipping or similar as FAQ",
+        "de": "Fragen zum Shop, zum Versand oder ähnlichen Themen lassen sich über das Modul „Shop FAQ“ klären."
+    },
+    "tags": [
+        "content",
+        "frontend"
+    ],
+    "versions": {
+        "1.1.3": {
+            "project": "http://www.digidesk.de/produkte/shop-faq/?attribute_pa_oxid-edition=enterprise-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Fast Order (EE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2015/07/dd_fastorder_webicon_250x250.png",
+    "price": "298.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Quick-order by product number",
+        "de": "Modul für eine Schnellbestellung, wenn dem Kunden die Artikelnummern bekannt sein sollten."
+    },
+    "tags": [
+        "frontend"
+    ],
+    "versions": {
+        "": {
+            "project": "http://www.digidesk.de/produkte/fast-order/?attribute_pa_oxid-edition=enterprise-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.1",
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

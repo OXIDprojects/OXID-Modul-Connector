@@ -1,0 +1,33 @@
+{
+    "name": "evoEDIT for Visual CMS & Visual Editor (EE)",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "http://www.digidesk.de/wp-content/uploads/2016/11/evo_Edit_250x250.png",
+    "price": "198.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "Replaces the standard-editors in OXID backend with the drag & drop editor.",
+        "de": "Erweiterung für Visual CMS & Visual Editor, welche die Standard-Editoren gegen den Drag & Drop Editor austauscht."
+    },
+    "tags": [
+        "backend",
+        "editor"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "http://www.digidesk.de/produkte/evoedit-for-visual-cms-visual-editor/?attribute_pa_oxid-edition=enterprise-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "4.9",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

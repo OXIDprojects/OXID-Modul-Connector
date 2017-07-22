@@ -1,9 +1,9 @@
 {
-    "name": "Live-Auswahllisten",
+    "name": "Live-Auswahllisten (EE)",
     "vendor": "digidesk",
     "type": "oxid",
     "picture": "http://www.digidesk.de/wp-content/uploads/2014/12/dd_live_auswahllisten_webicon_250x250.png",
-    "price": "49.00",
+    "price": "99.00",
     "license": "Commercial",
     "id": "0",
     "desc": {
@@ -17,7 +17,7 @@
     ],
     "versions": {
         "1.0.10": {
-            "project": "http://www.digidesk.de/produkte/live-auswahllisten/",
+            "project": "http://www.digidesk.de/produkte/live-auswahllisten/?attribute_pa_oxid-edition=enterprise-edition&attribute_pa_installation=ohne-installation&utm_source=oxid-eshop&utm_campaign=oxid-module-connector&campaign=oxid-module-connector",
             "url": "",
             "supported": [
                 "5.3",

@@ -1,0 +1,34 @@
+{
+    "name": "Responsive Emails",
+    "vendor": "Seemann IT-Beratung",
+    "type": "oxid",
+    "picture": "https://shop.oxid-responsive.com/out/pictures/generated/product/1/230_187_90/responsive_emails@2x.jpg",
+    "price": "199.00",
+    "license": "Commercial",
+    "id": "0",
+    "desc": {
+        "en": "OXID emails that look great on every device",
+        "de": "OXID-Emails, die auf allen Geräten gut aussehen"
+    },
+    "tags": [
+        "frontend",
+        "marketing",
+        "themes"
+    ],
+    "versions": {
+        "1.3.0": {
+            "project": "https://shop.oxid-responsive.com/Module/Responsive-Emails.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

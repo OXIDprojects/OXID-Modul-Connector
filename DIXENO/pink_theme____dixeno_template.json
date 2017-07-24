@@ -1,0 +1,32 @@
+{
+    "name": "Pink Theme // Dixeno Template",
+    "vendor": "DIXENO",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/pinktheme.jpg",
+    "price": "59.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "2-column Theme for OXID e-Shop //Themecolor: pink ",
+        "de": "2-spaltiges Theme für OXID e-Shop // Themefarbe: pink "
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "4.9": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Frontend-Templates/Pink-Theme-Dixeno-Template-4-9-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

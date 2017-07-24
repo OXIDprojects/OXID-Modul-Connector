@@ -1,0 +1,34 @@
+{
+    "name": "cateno für OXID - Professional / Enterprise",
+    "vendor": "cateno",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/catenofroxid(1).png",
+    "price": "1000.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "",
+        "de": "Die leistungsstarke Synchronisationsschnittstelle cateno für OXID hilft Online-Händlern ihre Prozesse effizient zu gestalten, indem die Schnittstelle den OXID Online-Shop nahtlos mit der Warenwirtschaft verbindet. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "4.16.86": {
+            "project": "https://exchange.oxid-esales.com/de/en/Systemintegration/Warenwirtschaft-ERP/cateno-fuer-OXID-Professional-Enterprise-4-16-86-Stable-EE-PE-4-7-x-5-0-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

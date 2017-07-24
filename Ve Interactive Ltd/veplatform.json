@@ -1,0 +1,31 @@
+{
+    "name": "VePlatform",
+    "vendor": "Ve Interactive Ltd",
+    "type": "oxid",
+    "picture": "http://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/veplatform_nodesc(2).png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Instantly increase your sales by adding the VePlatform’s integrated conversion enhancing, remarketing and re-engagement apps that convert customers who abandon your site. ",
+        "de": "Lassen Sie Ihre Umsätze umgehend durch Einbindung der in der VePlatform integrierten Re-Marketing und Re-Engagment Apps wachsen. Kaufabbrecher werden über diese Apps angesprochen, auf Ihre Seite zurückgeholt und zum Kauf animiert!"
+    },
+    "tags": [
+        "interfaces",
+        "marketing"
+    ],
+    "versions": {
+        "15.1.6.0": {
+            "project": "http://exchange.oxid-esales.com/Marketing-and-Campaigns/Product-Marketing/VePlatform-15-1-6-0-Stable-EE-PE-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

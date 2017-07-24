@@ -55,7 +55,7 @@
     "hooks": {
         "postinstall": {
             "type": "overlay",
-            "message": "Please go to admin -> Master settings -> Languages. Create a new language by entering \"hu\" as locale and \"Magyar\" as name. If you find any mistakes please feel free to register at the translation center.",
+            "message": "Please go to admin -> Master settings -> Languages. Create a new language by entering \"uk\" as locale and \"Українська\" as name. If you find any mistakes please feel free to register at the translation center.",
             "link": "http://translate.oxidforge.org"
         }
     }

@@ -17,10 +17,14 @@
     "languages"
   ],
   "versions": {
-    "4.9.2": {
+    "4.10.4": {
       "project": "https://github.com/OXIDprojects/languages",
       "url": "https://github.com/OXIDprojects/languages/archive/master.zip",
       "supported": [
+        "5.3",
+        "5.2",
+        "5.1",
+        "4.10",
         "4.9",
         "4.8"
       ],

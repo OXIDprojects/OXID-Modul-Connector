@@ -1,0 +1,33 @@
+{
+    "name": "Wendnet-Redirect-Search",
+    "vendor": "wendnet",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo(16).gif",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Module for redirecting to details page if only one product has been found. ",
+        "de": " Modul zum Weiterleiten zur Detailseite, falls nur ein Produkt gefunden wurde. "
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.1.1": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/Wendnet-Redirect-Search-1-1-0-Stable-CE-4-6-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

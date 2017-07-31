@@ -1,0 +1,34 @@
+{
+    "name": "Wendnet-OptimizeFilters ",
+    "vendor": "wendnet",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo(15).gif",
+    "price": "49.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Module for showing and extending attribute filters in product categories, manufacturer lists and search results inside azure and mobile theme frontend with many options (replaces showmanu, showcat and showattr). ",
+        "de": "Modul zur Anzeige und Erweiterung der Attribut-Filter für Produktkategorien, Herstellerlisten und Suchergebnisse im Frontend des Azure- und Mobile-Themes mit vielfältigen Optionen (ersetzt showmanu, showcat und showattr)."
+    },
+    "tags": [
+        "frontend",
+        "product presentation",
+        "search"
+    ],
+    "versions": {
+        "2.2.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/Wendnet-OptimizeFilters-2-1-0-Stable-CE-4-6-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

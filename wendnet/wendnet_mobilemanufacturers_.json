@@ -1,0 +1,31 @@
+{
+    "name": "Wendnet-MobileManufacturers ",
+    "vendor": "wendnet",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo(7).gif",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Module for activating manufacturer views in mobile theme. ",
+        "de": " Modul zur Aktivierung der Herstelleransichten im Mobile Theme. "
+    },
+    "tags": [
+        "frontend"
+    ],
+    "versions": {
+        "1.0.2": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/Wendnet-MobileManufacturers-1-0-2-Stable-CE-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

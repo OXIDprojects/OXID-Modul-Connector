@@ -1,0 +1,31 @@
+{
+    "name": "Review Reminder ",
+    "vendor": "Response GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/review-reminder.jpg",
+    "price": "119.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Improve the rate of assessment in your shop ",
+        "de": " Verbessern Sie Ihre Bewertungsrate im Shop "
+    },
+    "tags": [
+        "content",
+        "frontend",
+        "marketing"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/User-Rating-and-Feedback/Review-Reminder-1-0-0-Stable-CE-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

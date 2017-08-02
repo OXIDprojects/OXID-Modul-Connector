@@ -1,0 +1,30 @@
+{
+    "name": "OXID eFire Extension econda Cross Sell ",
+    "vendor": "econda GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/econda_logo_efire(2)(1).jpg",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "higher sales in online shops",
+        "de": "High-End Recommendation Engine - Automatisch die perfekt passenden Kaufempfehlungen für Ihre Kunden mit econda Cross Sell "
+    },
+    "tags": [
+        "analytics",
+        "interfaces"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "https://exchange.oxid-esales.com/OXID-Products/OXID-eFire-Extensions/OXID-eFire-Extension-econda-Cross-Sell-1-0-1-for-4-7-x-Stable-CE-4-7-x.html",
+            "url": "",
+            "supported": [
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

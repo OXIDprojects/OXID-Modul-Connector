@@ -1,0 +1,31 @@
+{
+    "name": "Energy Label for products (EnEV) ",
+    "vendor": " Internetfabrik GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/energylabel_icon.png",
+    "price": "199.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Since 2014 there is for online shops an obligation for labelling to highlight energy-intensive electrical appliances. Our module helps retailers to meet their information obligations, so that the efficiency category of the products can be integrated. ",
+        "de": "Seit 2014 besteht in Online-Shops die Pflicht zur Auszeichnung von energieintensiven Elektrogeräten. Unser Modul unterstützt Shopbetreiber, Ihren Informationspflichten nachzukommen, indem bei Produkten die Effizienzklasse eingeblendet werden kann."
+    },
+    "tags": [
+        "frontend"
+    ],
+    "versions": {
+        "2.1": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Product-Information/Energy-Label-for-products-EnEV-1-0-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

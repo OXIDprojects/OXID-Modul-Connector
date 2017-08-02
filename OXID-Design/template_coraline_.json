@@ -1,0 +1,31 @@
+{
+    "name": "Template Coraline ",
+    "vendor": "OXID-Design",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/coralinetheme.jpg",
+    "price": "125.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "CORALINE - a template for the OXID eShop is the perfect template for almost any online store that is based on OXID eShop. ",
+        "de": "CORALINE - ein Template für den OXID eShop ist das perfekte Template für fast jeden Online-Shop, der auf OXID eShop basiert. "
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Frontend-Templates/Template-Coraline-1-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Moderna Responsive OXID eShop Template",
+    "vendor": "Zinit Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-template_170x170(2).png",
+    "price": "250.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Basing on our experience, we have designed the \"Moderna OXID Responsive template\" for professional use with OXID Shop Versions CE, PE, EE.",
+        "de": "Basierend auf unserer Erfahrung und unserem Wissen haben wir das \"Moderna OXID Responsive Template\" für den professionellen Einsatz mit OXID Shop-CE, PE, EE entwickelt."
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "3.0.1": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Responsive/Moderna-Responsive-OXID-eShop-Template-2-0-1-2-0-1-Stable-CE-4-10-x-4-5-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Masterpayment",
+    "vendor": "Masterpayment AG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/170px-breite--v-2(3).jpg",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " One solution, all payment types! Masterpayment, a single point of contact and one solution for all payment types that an eCommerce shop really needs. ",
+        "de": " Eine Lösung, alle Zahlarten! Masterpayment; ein einziger Ansprechpartner und eine Lösung für alle Zahlarten, die ein eCommerce-Shop wirklich braucht. "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "1.9": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Masterpayment-1-9-Stable-EE-PE-4-4-x-4-8-x-5-1-x.html",
+            "url": "",
+            "supported": [
+                "5.1",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

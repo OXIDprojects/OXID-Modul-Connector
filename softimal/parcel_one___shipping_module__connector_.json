@@ -1,0 +1,29 @@
+{
+    "name": "Parcel.One - Shipping Module (Connector)",
+    "vendor": "softimal",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/imageshipbasicp1.png",
+    "price": "199.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "OXID extension to get direct connection to API of Parcel.One. Create Shipping Labels right from your shop backend in the Orders section, if necessary, print the custom documents right here or use many other features … ",
+        "de": "Mit dem Parcel.One-Versandmodul wird Ihr OXID-Shop direkt an die API von Parcel.one angeschlossen. Erstellen Sie Versandlabels über das Backend unter Bestellungen, erstellen Sie ggf. die erforderlichen Zolldokumente etc. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Shop-Admin/Parcel-One-Shipping-Module-Connector-1-0-Stable-CE-4-7-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

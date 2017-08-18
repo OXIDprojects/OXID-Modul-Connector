@@ -1,0 +1,37 @@
+{
+    "name": "Bürgel ConCheck Module ",
+    "vendor": " Bürgel Wirtschaftsinformationen GmbH & Co. KG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/productbox_c4_concheck_170px(1).jpg",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Bürgel ConCheck RealTime enables consumer check and payment option controlling in real time. ",
+        "de": " Bürgel ConCheck ermöglicht die Bonitätsprüfung von Privatpersonen und Steuerung der Zahlarten in Echtzeit. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.1": {
+            "project": "https://exchange.oxid-esales.com/Legal-and-Security/Risk-Management/Buergel-ConCheck-Module-Buergel-1-1-Stable-CE-4-0-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.8",
+                "4.7",
+                "4.6",
+                "4.5",
+                "4.4",
+                "4.3",
+                "4.2",
+                "4.1.",
+                "4.0"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

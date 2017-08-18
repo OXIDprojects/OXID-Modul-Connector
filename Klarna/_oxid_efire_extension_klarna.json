@@ -1,0 +1,33 @@
+{
+    "name": " OXID eFire Extension Klarna",
+    "vendor": "Klarna",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/klarna_170_170.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": "Klarna Checkout, Klarna Invoice and Klarna Account.",
+        "de": "Klarna Checkout, Klarna Invoice und Klarna Account."
+    },
+    "tags": [
+        "interface",
+        "payment"
+    ],
+    "versions": {
+        "3.6.2": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/OXID-eFire-Extension-Klarna-3-5-1-Stable-CE-4-0-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -11,7 +11,7 @@
         "de": "Klarna Checkout, Klarna Invoice und Klarna Account."
     },
     "tags": [
-        "interface",
+        "interfaces",
         "payment"
     ],
     "versions": {

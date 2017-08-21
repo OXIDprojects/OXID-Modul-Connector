@@ -1,0 +1,32 @@
+{
+    "name": "Remove The Background ",
+    "vendor": " Remove The Background UG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/remove1.jpg",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Remove The Background ™ is the leading service for the cropping of images in e-tailers, bloggers, designers, photographers and webmasters. ",
+        "de": " Remove The Background ™ ist das führende Dienstleistungsunternehmen für den Anbau von Bildern in E-Tailer, Blogger, Designer, Fotografen und Webmaster. "
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Product-Presentation/Remove-The-Background-1-0-Stable-EE-PE-4-6-x-4-7-x-5-0-x.html",
+            "url": "",
+            "supported": [
+                "5.0",
+                "4.7",
+                "4.6"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

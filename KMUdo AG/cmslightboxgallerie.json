@@ -1,0 +1,30 @@
+{
+    "name": "CmsLightboxGallerie",
+    "vendor": "KMUdo AG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/170x170px(2).jpg",
+    "price": "99.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Directly create a gallery on a CMS-Page. With this module you can make a gallery up to 50 images per CMS Page. It is further possible to set if the title of the image is visible or not. ",
+        "de": " Erstelle direkt in der CMS-Seite eine Bildergalerie. Mit dem Modul kann pro CMS-Seite eine Galerie mit bis zu 50 Bilder angezeigt werden. Weiter ist es möglich pro CMS-Seite anzugeben ob die Titel der Bilder angezeigt werden sollen, oder nicht. "
+    },
+    "tags": [
+        "content",
+        "frontend"
+    ],
+    "versions": {
+        "1.2": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Responsive/KMUdo-CmsLightboxGallerie-1-2-Stable-CE-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

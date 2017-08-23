@@ -1,0 +1,33 @@
+{
+    "name": "payever - Your checkout everywhere ",
+    "vendor": "payever GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/payever_logo_circle_170.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " With payever you can easily add all your preferred payment options to your checkout. Within minutes! More than 3.000 merchants are using the innovative checkout for their daily payment needs. ",
+        "de": " Mit payever kannst du deinem Checkout die gewünschten Zahlungsarten kostenfrei und in Minuten hinzufügen. Über 3.000 Händler nutzen unsere innovative Bezahllösung bereits für den täglichen Zahlungsverkehr. "
+    },
+    "tags": [
+        "checkout",
+        "frontend"
+    ],
+    "versions": {
+        "2.0.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/payever-Your-checkout-everywhere-1-1-0-Stable-CE-4-0-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

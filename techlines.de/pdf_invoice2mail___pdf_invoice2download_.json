@@ -1,0 +1,30 @@
+{
+    "name": "PDF Invoice2Mail + PDF Invoice2Download ",
+    "vendor": "techlines.de",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo(4).jpg",
+    "price": "49.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " With this module your customer may download the generated invoices to his customer-account and you can attach the invoice at shipment confirmation via e-mail. ",
+        "de": " Mit diesem Modul können Ihre Kunden die erstellten Rechnungen im Kunden-Konto downloaden und Sie können die Rechnung bei Versandbestätigung per Mail mitsenden. "
+    },
+    "tags": [
+        "customer management",
+        "payment"
+    ],
+    "versions": {
+        "1.1.5": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Shipping/PDF-Invoice2Mail-PDF-Invoice2Download-1-1-5-Stable-PE-4-9-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

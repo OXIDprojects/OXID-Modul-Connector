@@ -1,0 +1,31 @@
+{
+    "name": "apps4print Printshop / Web2Print ",
+    "vendor": "apps4print",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/apps4print_logo_170(1).png",
+    "price": "390.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " apps4print is a module box for Web2Print, Online-Editing, Printfile-Upload... ",
+        "de": " apps4print ist ein Modulbaukasten für Web2Print, Online-Gestaltung, Datenupload... "
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "2.6.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Product-Presentation/apps4print-Printshop-Web2Print-2-6-0-Stable-EE-PE-4-7-x-5-0-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

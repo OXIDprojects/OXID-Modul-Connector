@@ -1,0 +1,30 @@
+{
+    "name": "bezahlcode",
+    "vendor": "Hannes Peterseim",
+    "type": "oxid",
+    "picture": "",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": "integrates \"bezahlcode\" into the PDF invoice",
+        "de": "bezahlcode auf der PDF-Rechnung integrieren"
+    },
+    "tags": [
+        "payment"
+    ],
+    "versions": {
+        "": {
+            "project": "https://gitlab.petit-souris.de/oxid-esales/bezahlcode",
+            "url": "",
+            "supported": [
+                "5.3",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "/",
+                "dest": "modules/hp_bc/"
+            }
+        }
+    }
+}

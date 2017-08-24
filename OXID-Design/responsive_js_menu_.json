@@ -1,0 +1,31 @@
+{
+    "name": "Responsive JS Menu ",
+    "vendor": "OXID-Design",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/jsmenu.jpg",
+    "price": "39.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Responsive JS menu with 6 different themes. ",
+        "de": " Responsive JS Menü mit 6 verschiedenen Themes. "
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/Responsive-JS-Menu-1-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

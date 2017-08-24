@@ -1,0 +1,35 @@
+{
+    "name": "VöB ZVD directPOS payment ",
+    "vendor": "derksen mediaopt GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/1_logo_dp_oxid(1).png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The Extension guarantees a safe and easy payment for all payment methods provided to your eShop by VöB ZVD directPOS. Up to this day this includes VISA and MasterCard. ",
+        "de": " Das Modul sorgt für die sichere und einfache Abwicklung von Zahlungen über das VöB ZVD directPOS payment gateway mit ihrem OXID eShop. Im bisherigen Leistungsumfang enthalten sind Zahlungen mit den gängigen Kreditkarten VISA und Mastercard. "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "1.2": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/VoeB-ZVD-directPOS-payment-1-2-Stable-EE-PE-4-5-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

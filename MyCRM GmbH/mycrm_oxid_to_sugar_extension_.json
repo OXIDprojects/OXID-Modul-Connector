@@ -1,0 +1,29 @@
+{
+    "name": "MyCRM OXID-to-Sugar Extension ",
+    "vendor": "MyCRM GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo_oxid_to_sugar.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " A solution to integrate e-commerce with customer relationship management from SugarCRM. ",
+        "de": " OXID Web Shops mit SugarCRM integrieren "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.0.7": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Customer-Management/MyCRM-OXID-to-Sugar-Extension-1-0-7-Beta-CE-4-5-x.html",
+            "url": "",
+            "supported": [
+                "4.5"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

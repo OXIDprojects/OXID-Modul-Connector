@@ -1,0 +1,33 @@
+{
+    "name": "Bestellhistorie Plus",
+    "vendor": " four for business AG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/bestellhistorie_plus_pack(1).jpg",
+    "price": "249.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The extension of the order history in the \"my account\"-area covers reprocessing, printing and changing of orders as well as generating return receipts and reviewing delivery and payment options. ",
+        "de": " Die Extension zur Bestellhistorie im Mein Konto-Bereich umfasst erneutes Ausführen, Drucken und Ändern von Bestellungen, Einsehen von Liefer-/Zahlungsoptionen sowie Ausgabe eines Rücksendescheins. "
+    },
+    "tags": [
+        "admin tools",
+        "backend"
+    ],
+    "versions": {
+        "1.2.3": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/Bestellhistorie-Plus-1-2-3-Stable-EE-PE-4-5-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

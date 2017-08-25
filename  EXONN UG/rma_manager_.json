@@ -1,0 +1,31 @@
+{
+    "name": "RMA Manager ",
+    "vendor": " EXONN UG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/rma_manager.jpg",
+    "price": "430.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Complaints or returns the customer, edit quickly and effectively. ",
+        "de": " Reklamationen oder Retouren der Kunden, schnell und effektiv bearbeiten. "
+    },
+    "tags": [
+        "logistics"
+    ],
+    "versions": {
+        "1.0.2467": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/RMA-Manager-1-0-2467-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

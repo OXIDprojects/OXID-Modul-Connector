@@ -1,0 +1,33 @@
+{
+    "name": "Postbank Paysolution ",
+    "vendor": "d3",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/postbank.png",
+    "price": "199.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Enables secure Payment process via Postbank Paysolution interface ",
+        "de": " Ermöglicht den sicheren Zahlungsablauf im OXID-Shop über die Postbank Paysolution Schnittstelle "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "3.0.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Postbank-Paysolution-2-2-0-3-0-0-0-PE-Stable-PE-4-5-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.8",
+                "4.7",
+                "4.6",
+                "4.5"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

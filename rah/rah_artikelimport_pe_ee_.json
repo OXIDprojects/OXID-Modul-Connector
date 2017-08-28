@@ -11,7 +11,8 @@
         "de": " Einfach zu benutzender Artikel-Importer/-Updater. Importiert auch Kategoriezuordnungen, Lagerstände, Bilder, Attribute, Crossselling usw. NEU! Cronjob-Funktion! "
     },
     "tags": [
-        ""
+        "admin tools",
++        "backend"
     ],
     "versions": {
         "2.4.1": {

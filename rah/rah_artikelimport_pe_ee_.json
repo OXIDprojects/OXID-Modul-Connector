@@ -1,0 +1,36 @@
+{
+    "name": "RAH Artikelimport PE/EE ",
+    "vendor": "rah",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/rah_artimport(1).png",
+    "price": "249.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Simple to use product importer and updater.",
+        "de": " Einfach zu benutzender Artikel-Importer/-Updater. Importiert auch Kategoriezuordnungen, Lagerstände, Bilder, Attribute, Crossselling usw. NEU! Cronjob-Funktion! "
+    },
+    "tags": [
+        ""
+    ],
+    "versions": {
+        "2.4.1": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Product-Information/RAH-Artikelimport-PE-EE-2-1-6-Stable-EE-PE-4-6-x-4-8-x-5-1-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

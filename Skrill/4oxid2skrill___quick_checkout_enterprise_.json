@@ -1,0 +1,30 @@
+{
+    "name": "4OXID2Skrill - Quick Checkout Enterprise ",
+    "vendor": "Skrill",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/screenshot-28.04.201510_38_17.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The Skrill extension offers multiple local acquiring card solutions, high flexibility and adaptation. A highly detailed reporting backend provides the ability to accept online and Mail Order Telephone Order payments for optimised conversion rates. ",
+        "de": " Die Skrill Enterprise Extension bietet verschiedene lokale Bezahlmethoden (u.a. Kredit-, Debitkarten) sowie hohe Flexibilität und Anpassbarkeit. Ein detailliertes Reporting-Back-End rundet dieses Enterprise Paket ab.\" \" "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "3.0.7": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/4OXID2Skrill-Quick-Checkout-Enterprise-PE-3-0-3-PHP-5-3-Stable-EE-PE-4-0-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

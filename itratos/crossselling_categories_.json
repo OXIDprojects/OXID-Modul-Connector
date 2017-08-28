@@ -1,0 +1,30 @@
+{
+    "name": "CrossSelling Categories ",
+    "vendor": "itratos",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-klein170x170.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " CrossSelling Categories for OXID eShop ",
+        "de": " CrossSelling Kategorien für den OXID eShop "
+    },
+    "tags": [
+        "admin tools",
+        "backend"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/CrossSelling-Categories-1-0-0-Stable-CE-4-7-x.html",
+            "url": "",
+            "supported": [
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "alternative_dashboard",
+    "vendor": "Hannes Peterseim",
+    "type": "oxid",
+    "picture": "https://gitlab.petit-souris.de/uploads/-/system/project/avatar/6/adb.png",
+    "price": "0.00",
+    "license": "MIT",
+    "id": "hp_adb",
+    "desc": {
+        "en": "Delivers an alternative dashboard.",
+        "de": "Die nüchterne Redundanz auf dem Oxid Dashboard lässt sich mit diesem Modul in eine Übersicht der wichtigsten Daten verwandeln. Diese lässt sich mit diversenen Otionen anpassen, farblich abstimmen und mit einer automatischen Aktualisierung ausstatten."
+    },
+    "tags": [
+        "admin tools",
+        "analytics",
+        "backend"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://gitlab.petit-souris.de/oxid-esales/alternative_dashboard",
+            "url": "",
+            "supported": [
+                "4.10"
+            ],
+            "mapping": {
+                "src": "/",
+                "dest": "modules/hp_adb/"
+            }
+        }
+    }
+}

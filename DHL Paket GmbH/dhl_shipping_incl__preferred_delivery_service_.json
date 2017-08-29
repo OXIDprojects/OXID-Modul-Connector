@@ -1,0 +1,37 @@
+{
+    "name": "DHL Shipping incl. Preferred Delivery Service ",
+    "vendor": "DHL Paket GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo_170x170_neu(2).png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " DHL Shipping incl. Preferred Delivery Services (at home + locations) is the official module from DHL for displaying DHL packstations and branches during the OXID checkout process. ",
+        "de": " DHL Wunschpaket (zu Hause + Standorte) bietet den ganzen Service rund um den individuellen Paketempfang sowie die Auswahl von Lieferadressen für Packstationen und Filialen an. "
+    },
+    "tags": [
+        "interfaces",
+        "logistics"
+    ],
+    "versions": {
+        "2.2.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Frontend-Templates/DHL-delivery-address-1-1-0-Stable-EE-PE-4-7-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "softimal Admin Order Addresses ",
+    "vendor": "softimal",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/imagebackendorderaddress.png",
+    "price": "39.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Reflect Changes to Admin Order Addresses automatically in User Data and Delivery Addresses. ",
+        "de": " Änderungen im Admin-Bereich unter Bestelladressen automatisch auch in den Benutzerdaten und Lieferanschriften aktualisieren. "
+    },
+    "tags": [
+        "customer management"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/softimal-Admin-Order-Addresses-1-0-Alpha-CE-4-10-x-4-7-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "404 Error Pages + Intelligent forwarding ",
+    "vendor": "OXID-Design",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/404pages.jpg",
+    "price": "49.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The 404 error pages + Intelligent routing module allows the administrator to configure the in OXID eShop otherwise entrenched behavior of error pages if needed, so that the user \"Finding instead of searching\". ",
+        "de": " Der 404 Fehlerseiten + Intelligente Weiterleitung Modul erlaubt dem Administrator, das in OXID eShop ansonsten fest verankerte Verhalten der Fehlerseiten nach Bedarf zu konfigurieren, so dass die Anwender \"Finden statt Suchen\". "
+    },
+    "tags": [
+        "SEO"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Search-Navigation-and-Filters/404-Error-Pages-Intelligent-forwarding-1-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

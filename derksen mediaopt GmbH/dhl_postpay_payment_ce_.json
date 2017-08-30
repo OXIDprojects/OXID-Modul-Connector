@@ -11,7 +11,7 @@
         "de": " Das neue Bestell- und Zahlungsabwicklung Modul POSTPAY der Deutschen Post macht das Einkaufen im Internet noch sicherer und komfortabler. Verfügbare Zahlarten: Lastschrift, Vorkasse, Giropay, Sofort Überweisung, Kreditkarte oder Kauf auf Rechnung. "
     },
     "tags": [
-        "interface",
+        "interfaces",
         "payment"
     ],
     "versions": {

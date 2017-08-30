@@ -1,0 +1,32 @@
+{
+    "name": "DHL POSTPAY Payment CE ",
+    "vendor": "derksen mediaopt GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo_hg_wei_170x170(1).jpg",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The new ordering and payment process module POSTPAY from Deutsche Post makes shopping on the Internet safer and more comfortable. Avaible payments: direct debit, credit card, girpay, sofort Überweisung, purchase on account ",
+        "de": " Das neue Bestell- und Zahlungsabwicklung Modul POSTPAY der Deutschen Post macht das Einkaufen im Internet noch sicherer und komfortabler. Verfügbare Zahlarten: Lastschrift, Vorkasse, Giropay, Sofort Überweisung, Kreditkarte oder Kauf auf Rechnung. "
+    },
+    "tags": [
+        "interface",
+        "payment"
+    ],
+    "versions": {
+        "1.2.2": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/DHL-POSTPAY-Payment-CE-1-2-2-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

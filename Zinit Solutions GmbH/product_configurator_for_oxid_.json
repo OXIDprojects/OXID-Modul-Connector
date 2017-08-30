@@ -1,0 +1,30 @@
+{
+    "name": "Product Configurator for OXID ",
+    "vendor": "Zinit Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/produktkonfigurator-modul-fr-oxid.png",
+    "price": "1000.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " This module is used for creation of promotional goods directly on the product page and ordering of any number of configured products with customized logo and text. ",
+        "de": " Dieses Modul dient für die Erstellung der Werbeartikel direkt auf der Artikelseite und die Bestellung von beliebiger Anzahl der konfigurierten Artikel mit individuellem Logo und Text. "
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Product-Presentation/Product-Configurator-for-OXID-1-0-1-Stable-CE-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

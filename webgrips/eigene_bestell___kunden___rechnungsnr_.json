@@ -1,0 +1,31 @@
+{
+    "name": "Eigene Bestell-, Kunden-, Rechnungsnr ",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-nummernkreise.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Define individual numbers for orders, customers and invoices. ",
+        "de": " Definieren Sie individuelle Nummern für Bestellungen, Kunden und Rechnungen. "
+    },
+    "tags": [
+        "admin tools",
+        "customer management"
+    ],
+    "versions": {
+        "3.01": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Analysis-and-Controlling/Eigene-Bestell-Kunden-Rechnungsnr-3-0-Stable-PE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Cashcloud Payments ",
+    "vendor": "Cashcloud AG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/cashcloud170x170.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Shape the future of your online payment processes – easier, faster, in real time, with low and no fees and charge back with our OXID extension ",
+        "de": " Cashcloud Zahlungs Modul erlaubt Ihnen das mobile Zahlungssystem, das speziell.entwickelt wurde um das Online-Shopping zu erleichtern zu benutzen "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "0.0.1": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Cashcloud-Payments-0-Stable-CE-4-7-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

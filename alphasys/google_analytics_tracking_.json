@@ -1,0 +1,32 @@
+{
+    "name": "Google Analytics tracking ",
+    "vendor": "alphasys",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/module_exchange(7).png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Integrates Google Analytics in your OXID Shop.",
+        "de": " Einfache Integration von Google Analytics (inkl. Ecommerce Tracking) in den OXID Shop "
+    },
+    "tags": [
+        "analytics",
+        "interfaces"
+    ],
+    "versions": {
+        "1.1": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/SEO/Google-Analytics-tracking-1-0-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

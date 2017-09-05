@@ -1,0 +1,31 @@
+{
+    "name": "LazyLoad for product and category Images ",
+    "vendor": "OXID-Design",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/lazyload.jpg",
+    "price": "29.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Product and category images are loaded with LazyLoad later. The browser will only load the images that are currently visible in the browser, so the user gets a quick look \"finished\" side. ",
+        "de": " Produkt und Kategoriebilder werden mit LazyLoad später geladen. Der Browser lädt nur die Bilder, die gerade im Browser sichtbar sind, so dass der Nutzer schnell eine \"fertige\" Seite zu sehen bekommt. "
+    },
+    "tags": [
+        "frontend",
+        "performance"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/LazyLoad-for-product-and-category-Images-1-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

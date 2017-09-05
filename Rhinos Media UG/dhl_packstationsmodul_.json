@@ -1,0 +1,30 @@
+{
+    "name": "DHL Packstationsmodul ",
+    "vendor": "Rhinos Media UG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/mod_packstation.jpg",
+    "price": "229.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "With this module the purchaser can select a freight station close to him.",
+        "de": " Mit dem DHL Packstationsmodul kann Ihr Kunde eine Packstation in seiner nähe auswählen. "
+    },
+    "tags": [
+        "checkout",
+        "logistics"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Shipping/DHL-Packstationsmodul-1-0-Stable-CE-4-5-x.html",
+            "url": "",
+            "supported": [
+                "4.5"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

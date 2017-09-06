@@ -1,0 +1,31 @@
+{
+    "name": "Paypal additional fee ",
+    "vendor": "OXID-Design",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/paypalfees.jpg",
+    "price": "29.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " This extension provides for all methods in the shop two charges modules, which makes it possible to create various commissions and fees. ",
+        "de": " Diese Erweiterung stellt für alle Zahlungsarten im Shop zwei Gebührenmodule zur Verfügung, die es möglich macht, verschiedene Provisionen und Gebühren anzulegen. "
+    },
+    "tags": [
+        "checkout",
+        "frontend"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Paypal-additional-fee-1-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

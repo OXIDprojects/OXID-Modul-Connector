@@ -1,0 +1,34 @@
+{
+    "name": "Image update",
+    "vendor": "SALT Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-bilderaktualisierung-170x170.png",
+    "price": "39.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " automatic update of corresponding images ",
+        "de": " automatische Aktualisierung aller zugehörigen Bilder "
+    },
+    "tags": [
+        "backend",
+        "content",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0.6": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Product-Information/Image-update-CE-1-0-5-Stable-CE-4-5-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

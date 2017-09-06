@@ -1,0 +1,34 @@
+{
+    "name": "scaled prices for starting prices",
+    "vendor": "SALT Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/box_ab-preise_23062015-170x170.jpg",
+    "price": "89.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " considering scaled prices for starting prices ",
+        "de": " Berücksichtigt Staffelpreise bei Ab-Preisen "
+    },
+    "tags": [
+        "frontend",
+        "legal",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0.4": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/scaled-prices-for-starting-prices-CE-1-0-3-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

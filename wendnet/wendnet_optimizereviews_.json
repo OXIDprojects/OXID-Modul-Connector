@@ -1,0 +1,34 @@
+{
+    "name": "Wendnet-OptimizeReviews ",
+    "vendor": "wendnet",
+    "type": "oxid",
+    "picture": "http://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo(11).gif",
+    "price": "79.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " You are also regarding product reviews as valuable user content? This module optimizes the whole OXID review process in many ways! You too can benefit from a considerably increasing rating quote! ",
+        "de": " Sie betrachten Produkt-Bewertungen auch als wertvollen User-Content? Dieses Modul optimiert den gesamten OXID-Bewertungsprozess in mehrfacher Hinsicht! Profitieren auch Sie von erheblichen Steigerungen der Bewertungsquote! "
+    },
+    "tags": [
+        "content",
+        "frontend",
+        "marketing"
+    ],
+    "versions": {
+        "1.5.0": {
+            "project": "http://exchange.oxid-esales.com/Frontend-and-User-Experience/User-Rating-and-Feedback/Wendnet-OptimizeReviews-1-4-0-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "OscWare® Pro Free ",
+    "vendor": "NetConnections GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oscware2017_profree2.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " OscWare® Pro – The interface between enterprise resource planning systems, webshops and online marketplaces ",
+        "de": " OscWare® Pro – Die Schnittstelle zwischen Warenwirtschaftsystemen, Webshops und Onlinemarktplätzen "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "2017": {
+            "project": "https://exchange.oxid-esales.com/System-Integration/ERP/OscWare-Pro-Free-Pro-2016-Stable-EE-PE-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

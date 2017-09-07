@@ -1,0 +1,35 @@
+{
+    "name": "EXONN ABO Modul CE ",
+    "vendor": " EXONN UG",
+    "type": "oxid",
+    "picture": "http://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/spar_abo_box(1).jpg",
+    "price": "380.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Automated order placement, customer can set order interval ",
+        "de": " Automatische Bestellauslösung, je nach eingestelltem Bestell-Intervall "
+    },
+    "tags": [
+        "checkout",
+        "frontend",
+        "marketing"
+    ],
+    "versions": {
+        "2.3.3": {
+            "project": "http://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/EXONN-ABO-Modul-CE-2-3-3-Stable-CE-4-5-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6",
+                "4.5"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -2,29 +2,42 @@
     "name": "bezahlcode",
     "vendor": "Hannes Peterseim",
     "type": "oxid",
-    "picture": "",
+    "picture": "https://petit-souris.de/media/modules/bc.png",
     "price": "0.00",
-    "license": "GPL",
-    "id": "",
+    "license": "MIT",
+    "id": "bezahlcode",
     "desc": {
-        "en": "integrates \"bezahlcode\" into the PDF invoice",
-        "de": "bezahlcode auf der PDF-Rechnung integrieren"
+        "en": "Extends the invoice with a qr paymentcode.",
+        "de": "Erweitert die Rechnung um einen QR Bezahlcode."
     },
     "tags": [
+		"backend"
         "payment"
+		"invoice"
     ],
     "versions": {
-        "": {
+        "1.0.6": {
             "project": "https://gitlab.petit-souris.de/oxid-esales/bezahlcode",
-            "url": "",
+            "url": "https://gitlab.petit-souris.de/oxid-esales/bezahlcode.git",
             "supported": [
                 "5.3",
                 "4.10"
             ],
             "mapping": {
                 "src": "/",
-                "dest": "modules/hp_bc/"
+                "dest": "modules/bezahlcode/"
             }
+        }
+    }
+	"hooks": {
+        "preinstall": {
+            "type" : "alert",
+            "message": "Bitte beachten Sie, das Modul Invoice PDF muss vorher installiert sein.<br>Eine installierte GD Erweiterung wird vorausgesetzt!)"
+        },
+        "postinstall": {
+            "type" : "overlay",
+            "message": "Stellen Sie in den Moduleinstellungen die gewünschte Größe des QR Codes ein.<br>Stellen Sie sicher dass in den Grundeinstellungen die Bankdaten (IBAN / BIC) hinterlegt sind.",
+            "link": "https://gitlab.petit-souris.de/oxid-esales/bezahlcode/blob/master/readme.md"
         }
     }
 }

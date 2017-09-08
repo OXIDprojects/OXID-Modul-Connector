@@ -1,14 +1,14 @@
 {
-    "name": "alternative_dashboard",
+    "name": "alternative dashboard",
     "vendor": "Hannes Peterseim",
     "type": "oxid",
-    "picture": "https://gitlab.petit-souris.de/uploads/-/system/project/avatar/6/adb.png",
+    "picture": "https://petit-souris.de/media/modules/adb.png",
     "price": "0.00",
     "license": "MIT",
-    "id": "hp_adb",
+    "id": "alternative_dashboard",
     "desc": {
         "en": "Delivers an alternative dashboard.",
-        "de": "Die nüchterne Redundanz auf dem Oxid Dashboard lässt sich mit diesem Modul in eine Übersicht der wichtigsten Daten verwandeln. Diese lässt sich mit diversenen Otionen anpassen, farblich abstimmen und mit einer automatischen Aktualisierung ausstatten."
+        "de": "Stellt ein alternatives Dashboard zur Verfügung."
     },
     "tags": [
         "admin tools",
@@ -16,16 +16,28 @@
         "backend"
     ],
     "versions": {
-        "1.0.0": {
+        "1.0.1": {
             "project": "https://gitlab.petit-souris.de/oxid-esales/alternative_dashboard",
-            "url": "",
+            "url": "https://gitlab.petit-souris.de/oxid-esales/alternative_dashboard.git",
             "supported": [
+				"5.3",
                 "4.10"
             ],
             "mapping": {
                 "src": "/",
-                "dest": "modules/hp_adb/"
+                "dest": "modules/alternative_dashboard/"
             }
+        }
+    }
+	"hooks": {
+	    "preinstall": {
+            "type" : "alert",
+            "message": "Bitte beachten Sie, gd wird auf dem System vorausgesetzt!)"
+        },
+        "postinstall": {
+            "type" : "overlay",
+            "message": "Stellen Sie in den Moduleinstellungen die gewünschte Elemente / Optionen ein.<br>Testen Sie ob es funktioniert hat indem Sie im Administrationsbereich oben links auf \"Home\" klicken.",
+            "link": "https://gitlab.petit-souris.de/oxid-esales/alternative_dashboard/blob/master/readme.md"
         }
     }
 }

@@ -1,0 +1,32 @@
+{
+    "name": "OXID Arabisch Frontend Sprachmodul",
+    "vendor": " Shop-Uebersetzungen.de",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/b-flagge_94.png",
+    "price": "149.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Languagepack Arabian - certified (DIN EN 15038)",
+        "de": " Sprachmodul Arabisch - certified (DIN EN 15038)"
+    },
+    "tags": [
+        "languages"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/International-Trade/Language-Modules/OXID-Arabisch-Frontend-Sprachmodul-PE-EE-1-0-Stable-EE-PE-4-8-x-5-1-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

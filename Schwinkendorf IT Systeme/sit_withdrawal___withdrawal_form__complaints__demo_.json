@@ -1,0 +1,35 @@
+{
+    "name": "SIT-Withdrawal | withdrawal form, complaints (Demo)",
+    "vendor": "Schwinkendorf IT Systeme",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo-sit-withdrawal-oxid-exchange(2).png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " corresponding to the new customer rights guideline | free testversion ",
+        "de": " Widerruf-Formular entsprechend neuer Verbraucherrechterichtlinie | Kostenlose Testversion "
+    },
+    "tags": [
+        "legal"
+    ],
+    "versions": {
+        "3.1.6": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/SIT-Withdrawal-withdrawal-form-complaints-SIT-Withdrawal-3-16-PHP-5-5-Stable-EE-PE-4-0-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

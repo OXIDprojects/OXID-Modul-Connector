@@ -1,0 +1,32 @@
+{
+    "name": "Inxmail4OXID",
+    "vendor": "best it",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/inxmail.png",
+    "price": "890.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " OXID to Inxmail connector ",
+        "de": " OXID to Inxmail connector "
+    },
+    "tags": [
+        "interfaces",
+        "marketing"
+    ],
+    "versions": {
+        "1.2.0.6": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/E-Mail/Inxmail4OXID-1-2-0-6-Stable-EE-PE-4-6-x-4-7-x-5-0-x.html",
+            "url": "",
+            "supported": [
+                "5.0",
+                "4.7",
+                "4.6"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

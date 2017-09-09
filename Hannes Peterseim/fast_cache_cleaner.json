@@ -1,0 +1,38 @@
+{
+    "name": "fast cache cleaner",
+    "vendor": "Hannes Peterseim",
+    "type": "oxid",
+    "picture": "https://petit-souris.de/media/modules/fcc.png",
+    "price": "0.00",
+    "license": "MIT",
+    "id": "fast_cache_cleaner",
+    "desc": {
+        "en": "Deletes Oxid caches with one click.",
+        "de": "Löscht die Oxid Caches mit einem Klick."
+    },
+    "tags": [
+        "admin tools",
+        "backend",
+    ],
+    "versions": {
+        "1.0.6": {
+            "project": "https://gitlab.petit-souris.de/oxid-esales/fast-cache-cleaner",
+            "url": "https://gitlab.petit-souris.de/oxid-esales/fast-cache-cleaner.git",
+            "supported": [
+				"5.3",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "/",
+                "dest": "modules/fast_cache_cleaner/"
+            }
+        }
+    }
+	"hooks": {
+        "postinstall": {
+            "type" : "overlay",
+            "message": "Probieren Sie die Funktion aus, Sie finden den neuen Menüpunkt unter Service.",
+            "link": "https://gitlab.petit-souris.de/oxid-esales/fast-cache-cleaner/blob/master/readme.md"
+        }
+    }
+}

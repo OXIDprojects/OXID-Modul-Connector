@@ -1,0 +1,38 @@
+{
+    "name": "products_condition",
+    "vendor": "Hannes Peterseim",
+    "type": "oxid",
+    "picture": "https://petit-souris.de/media/modules/oor.png",
+    "price": "0.00",
+    "license": "MIT",
+    "id": "products_condition",
+    "desc": {
+        "en": "Fügt den Artikeln einen Zustand hinzu.<br>Dieser kann auf \"neu\", \"gebraucht\" oder \"wiederaufbereitet\" gesetzt werden.",
+        "de": "Extends articles with a condition that could be \"new\", \"used\" or \"refurbished\"."
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "https://gitlab.petit-souris.de/oxid-esales/products_condition",
+            "url": "https://gitlab.petit-souris.de/oxid-esales/products_condition.git",
+            "supported": [
+		"5.3",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "/",
+                "dest": "modules/products_condition/"
+            }
+        }
+    }
+    "hooks": {
+        "postinstall": {
+            "type" : "overlay",
+            "message": "Der Produktzustand kann nun im Administrationbereich über Artikel im neuen Tab \"Zustand\" gepflegt werden.<br>Entwickler beachten bitte die readme.md!",
+            "link": "https://gitlab.petit-souris.de/oxid-esales/products_condition/blob/master/readme.md"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "oxOnRoids",
+    "vendor": "Hannes Peterseim",
+    "type": "oxid",
+    "picture": "https://petit-souris.de/media/modules/oor.png",
+    "price": "0.00",
+    "license": "MIT",
+    "id": "oxOnRoids",
+    "desc": {
+        "en": "Extends oxid shop with a memcache caching layer, reduces therefor the querycount and relieves the database.",
+        "de": "Fügt dem Oxid Shop einen memcache caching layer hinzu, reduziert somit den querycount und entlastet die Datenbank."
+    },
+    "tags": [
+        "performance"
+    ],
+    "versions": {
+        "1.1.0": {
+            "project": "https://gitlab.petit-souris.de/oxid-esales/oxOnRoids",
+            "url": "https://gitlab.petit-souris.de/oxid-esales/oxOnRoids.git",
+            "supported": [
+		"5.3",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "/",
+                "dest": "modules/oxOnRoids/"
+            }
+        }
+    }
+	"hooks": {
+        "preinstall": {
+            "type" : "alert",
+            "message": "Bitte beachten Sie, memcache und php-memcached werden auf dem System vorausgesetzt!)"
+        },
+        "postinstall": {
+            "type" : "overlay",
+            "message": "Stellen Sie in den Moduleinstellungen die Servereinstellungen sowie die Cachelaufzeiten für die einzelnen Objekte ein.",
+            "link": "https://gitlab.petit-souris.de/oxid-esales/oxOnRoids/blob/master/readme.md"
+        }
+    }
+}

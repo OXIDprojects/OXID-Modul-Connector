@@ -16,11 +16,11 @@
         "performance"
     ],
     "versions": {
-        "1.0.6": {
+        "1.1.0": {
             "project": "https://gitlab.petit-souris.de/oxid-esales/oxOnRoids",
             "url": "https://gitlab.petit-souris.de/oxid-esales/oxOnRoids.git",
             "supported": [
-				"5.3",
+		"5.3",
                 "4.10"
             ],
             "mapping": {

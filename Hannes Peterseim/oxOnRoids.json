@@ -11,8 +11,6 @@
         "de": "Fügt dem Oxid Shop einen memcache caching layer hinzu, reduziert somit den querycount und entlastet die Datenbank."
     },
     "tags": [
-        "memcache",
-        "cache",
         "performance"
     ],
     "versions": {

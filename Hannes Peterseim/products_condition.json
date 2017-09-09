@@ -11,9 +11,8 @@
         "de": "Extends articles with a condition that could be \"new\", \"used\" or \"refurbished\"."
     },
     "tags": [
-        "condition",
-        "feed",
-        "admin tool"
+        "frontend",
+        "product presentation"
     ],
     "versions": {
         "1.0.1": {

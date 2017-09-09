@@ -27,7 +27,7 @@
                 "dest": "modules/fast_cache_cleaner/"
             }
         }
-    }
+    },
 	"hooks": {
         "postinstall": {
             "type" : "overlay",

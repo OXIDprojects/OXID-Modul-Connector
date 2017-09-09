@@ -20,7 +20,7 @@
             "project": "https://gitlab.petit-souris.de/oxid-esales/alternative_dashboard",
             "url": "https://gitlab.petit-souris.de/oxid-esales/alternative_dashboard.git",
             "supported": [
-				"5.3",
+		"5.3",
                 "4.10"
             ],
             "mapping": {

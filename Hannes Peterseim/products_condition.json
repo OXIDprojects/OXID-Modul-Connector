@@ -16,17 +16,24 @@
         "admin tool"
     ],
     "versions": {
-        "1.0.0": {
+        "1.0.1": {
             "project": "https://gitlab.petit-souris.de/oxid-esales/products_condition",
             "url": "https://gitlab.petit-souris.de/oxid-esales/products_condition.git",
             "supported": [
-				"5.3",
+		"5.3",
                 "4.10"
             ],
             "mapping": {
                 "src": "/",
                 "dest": "modules/products_condition/"
             }
+        }
+    }
+    "hooks": {
+        "postinstall": {
+            "type" : "overlay",
+            "message": "Der Produktzustand kann nun im Administrationbereich über Artikel im neuen Tab \"Zustand\" gepflegt werden.<br>Entwickler beachten bitte die readme.md!",
+            "link": "https://gitlab.petit-souris.de/oxid-esales/products_condition/blob/master/readme.md"
         }
     }
 }

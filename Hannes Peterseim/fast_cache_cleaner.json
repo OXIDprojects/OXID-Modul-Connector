@@ -12,8 +12,7 @@
     },
     "tags": [
         "admin tools",
-        "cache",
-        "smarty"
+        "backend",
     ],
     "versions": {
         "1.0.6": {

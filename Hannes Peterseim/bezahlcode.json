@@ -27,7 +27,7 @@
                 "dest": "modules/bezahlcode/"
             }
         }
-    }
+    },
 	"hooks": {
         "preinstall": {
             "type" : "alert",

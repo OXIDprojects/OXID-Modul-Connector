@@ -27,7 +27,7 @@
                 "dest": "modules/products_condition/"
             }
         }
-    }
+    },
     "hooks": {
         "postinstall": {
             "type" : "overlay",

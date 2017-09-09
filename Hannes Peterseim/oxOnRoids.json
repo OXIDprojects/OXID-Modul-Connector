@@ -26,7 +26,7 @@
                 "dest": "modules/oxOnRoids/"
             }
         }
-    }
+    },
 	"hooks": {
         "preinstall": {
             "type" : "alert",

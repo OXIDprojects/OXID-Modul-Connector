@@ -28,7 +28,7 @@
                 "dest": "modules/alternative_dashboard/"
             }
         }
-    }
+    },
 	"hooks": {
 	    "preinstall": {
             "type" : "alert",

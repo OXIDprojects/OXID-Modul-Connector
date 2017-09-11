@@ -1,0 +1,33 @@
+{
+    "name": "Add-To-Basket",
+    "vendor": "SALT Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/box_add-to-basket.jpg",
+    "price": "49.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Expands the detailed product view with an intuitive input possibility for item quantities connected to all variants of the product. A previous variant selection is no longer needed. ",
+        "de": " Erweitert die Produktdetailansicht um eine bequeme Eingabemöglichkeit für Bestellmengen zu allen mit einem Artikel verknüpften Varianten. Eine vorherige Variantenauswahl ist nicht mehr nötig. "
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0.2": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/Add-To-Basket-CE-1-0-2-Stable-CE-4-10-x-4-7-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

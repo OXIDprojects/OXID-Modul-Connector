@@ -1,0 +1,38 @@
+{
+    "name": "fasterOxid - Web Performance Optimiser ",
+    "vendor": "Take it Web",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo-carre(1).png",
+    "price": "90.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Speed up your website for your customers! fasterOxid automatically optimises your theme, so every page will render faster on both desktops and mobiles. ",
+        "de": " Tun Sie Ihren Kunden einen Gefallen und beschleunigen Sie Ihre Website! Mit fasterOxid wird Ihr Theme automatisch optimiert und jede einzelne Seite lädt schneller – sowohl in der Desktop- als auch in der Smartphone-Version. "
+    },
+    "tags": [
+        "frontend",
+        "performance"
+    ],
+    "versions": {
+        "1.2": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/fasterOxid-Web-Performance-Optimiser-1-1-Stable-EE-PE-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

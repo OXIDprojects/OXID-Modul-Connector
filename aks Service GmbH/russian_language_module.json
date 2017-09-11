@@ -1,0 +1,32 @@
+{
+    "name": "Russian language module",
+    "vendor": "aks Service GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo(3).jpg",
+    "price": "259.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Offer your customers the OXID also in Russian and benefit from increased customer satisfaction. ",
+        "de": " Bieten Sie Ihren Kunden den OXID eShop auch in russischer Sprache an und profitieren Sie von mehr Kundenzufriedenheit. "
+    },
+    "tags": [
+        "frontend",
+        "languages"
+    ],
+    "versions": {
+        "1.2.1.12": {
+            "project": "https://exchange.oxid-esales.com/International-Trade/Language-Modules/Russian-language-module-for-your-OXID-eShop-1-2-1-12-Stable-PE-4-4-x-4-6-x.html",
+            "url": "",
+            "supported": [
+                "4.6",
+                "4.5",
+                "4.4"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

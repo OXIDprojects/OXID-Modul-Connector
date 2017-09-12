@@ -1,0 +1,32 @@
+{
+    "name": "Minimum Order Quantity ",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-mindestbestellmenge.png",
+    "price": "32.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " This module can specify a minimum order quantity for each item. This minimum order size is always per item / variant. ",
+        "de": " Mit diesem Modul können Sie für jeden Artikel eine Mindest-Bestellmenge festlegen. Diese Mindest-Bestellmenge gilt immer pro Artikel / Variante. "
+    },
+    "tags": [
+        "checkout",
+        "frontend"
+    ],
+    "versions": {
+        "1.04": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/Minimum-Order-Quantity-1-04-Beta-PE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

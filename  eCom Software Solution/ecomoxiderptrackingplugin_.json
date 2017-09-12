@@ -1,0 +1,36 @@
+{
+    "name": "eComOxidERPTrackingPlugin ",
+    "vendor": " eCom Software Solution",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/ecom_box.jpg",
+    "price": "89.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " eComOxidERPTrackingPlugin is a Plugin for the OXID ERP to set Trackingdata and send Shipping E-Mail ",
+        "de": " Das eComOxidERPTrackingPlugin ermöglicht Ihnen den Versandstatus der Bestellung über die OXID ERP Schnittstelle zu steuern. "
+    },
+    "tags": [
+        "interfaces",
+        "logistics"
+    ],
+    "versions": {
+        "1.1.0": {
+            "project": "https://exchange.oxid-esales.com/System-Integration/ERP/eComOxidERPTrackingPlugin-1-1-0-Stable-EE-PE-4-0-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

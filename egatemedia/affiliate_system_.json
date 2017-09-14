@@ -1,0 +1,32 @@
+{
+    "name": "Affiliate System ",
+    "vendor": "egatemedia",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/marketing_170x170.png",
+    "price": "399.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The optimal Affiliate solution for your OXID eShop ",
+        "de": " Die optimale Affiliate Lösung für Ihren OXID eShop "
+    },
+    "tags": [
+        "marketing"
+    ],
+    "versions": {
+        "4.9.1": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Affiliate/Affiliate-System-4-8-0-Stable-CE-4-4-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

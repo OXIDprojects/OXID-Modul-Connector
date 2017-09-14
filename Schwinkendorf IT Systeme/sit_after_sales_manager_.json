@@ -1,0 +1,35 @@
+{
+    "name": "SIT-After-Sales-Manager ",
+    "vendor": "Schwinkendorf IT Systeme",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo-sit-after-sales-manager-oxid-exchange.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " after-sales-management | PDF invoice and deliverynote | review reminder | deliveryinformation | demand processing | free testversion ",
+        "de": " After-Sales-Management | PDF Rechnung und Lieferschein | Bewertungserinnerung | Versandbestätigung | Zahlungsaufforderung | Kostenlose Testversion "
+    },
+    "tags": [
+        "logistics"
+    ],
+    "versions": {
+        "5.5": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Customer-Management/SIT-After-Sales-Manager-SIT-After-Sales-Manager-3-16-PHP-5-5-Stable-EE-PE-4-0-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

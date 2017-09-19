@@ -1,0 +1,30 @@
+{
+    "name": "Purple Template // Dixeno Template",
+    "vendor": "DIXENO",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/purple_icon.jpg",
+    "price": "59.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "2-column Theme for OXID e-Shop 4.7.x //Themecolor: purple ",
+        "de": "2-spaltiges Theme für OXID e-Shop 4.7.x // Themefarbe: lila "
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "4.7": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Frontend-Templates/Purple-Template-Dixeno-Template-4-7-Stable-CE-4-7-x.html",
+            "url": "",
+            "supported": [
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

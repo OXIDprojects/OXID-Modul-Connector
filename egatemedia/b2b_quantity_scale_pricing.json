@@ -1,0 +1,36 @@
+{
+    "name": "B2B quantity scale pricing",
+    "vendor": "egatemedia",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/b2b_170x170.png",
+    "price": "149.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "ads ABC usergroup functionality to scale pricing",
+        "de": "Die B2B Erweiterung zur OXID Staffelpreisfunktionalität "
+    },
+    "tags": [
+        "",
+        "calculation",
+        "customer management"
+    ],
+    "versions": {
+        "1.4.0": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Price-Management/B2B-quantity-scale-pricing-1-4-0-Stable-EE-PE-4-3-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

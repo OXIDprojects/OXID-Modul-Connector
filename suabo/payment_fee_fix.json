@@ -1,0 +1,36 @@
+{
+    "name": "Payment Fee Fix",
+    "vendor": "suabo",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/fixpaymentfee_logo.png",
+    "price": "9.99",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Fix the calculation problem of payment fee. ",
+        "de": " Zahlungsarten-Rabatt oder Aufschlag wird mit diesem Fix nun auf die Artikel Gesamtsumme berechnen. Im Standard wird der Rabatt auf den Gesamtwert also auch auf die Versandkosten berechnet. "
+    },
+    "tags": [
+        "checkout",
+        "frontend"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Payment-Fee-Fix-1-0-Stable-EE-PE-4-0-x-4-6-x.html",
+            "url": "",
+            "supported": [
+                "4.6",
+                "4.5",
+                "4.4",
+                "4.3",
+                "4.2",
+                "4.1.",
+                "4.0"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

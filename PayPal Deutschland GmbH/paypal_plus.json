@@ -1,0 +1,37 @@
+{
+    "name": "PayPal PLUS",
+    "vendor": "PayPal Deutschland GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/plus_logo_exchange.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " With the new PayPal PLUS everything becomes a lot easier: For the first time you can offer your customers the four most favoured payment methods – secure and from a single source. ",
+        "de": " Mit dem neuen PayPal PLUS wird alles noch viel einfacher, denn zum ersten Mal können Sie Ihren Kunden die vier beliebtesten Zahlarten anbieten – abgesichert und aus einer Hand. "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "2.0.4": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/PayPal-PLUS-2-0-3-Stable-EE-PE-4-7-x-5-0-x-4-10-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

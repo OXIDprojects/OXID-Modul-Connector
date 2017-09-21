@@ -1,0 +1,30 @@
+{
+    "name": "OX2BAY - eBay Auctionmanagement for OXID",
+    "vendor": "itratos",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/ox2bay_logo.png",
+    "price": "399.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "OX2BAY is a eBay auction manager for OXID eShop ",
+        "de": "Wir freuen uns Ihnen OX2BAY vorstellen zu können, der einzigartige eBay Auktions- und Angebotmanager für OXID eShop. OX2BAY bietet dabei mehr als bloss eine OXID zu eBay Schnittstelle."
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.7.4.1535": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Bonuses-and-Campaigns/OX2BAY-eBay-Auctionmanagement-for-OXID-Subshop-Zusatzlizenz-EE-Stable-EE-PE-4-0-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "OXID2GAX",
+    "vendor": "One Commerce",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/onecombox_gax_170.png",
+    "price": "2100.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Easy integration of your trading partners in the online buying process by using the interface OXID2gax for your OXID eShop. ",
+        "de": " Einfache Integration von Ihren Handelspartnern in den Online-Kaufprozess durch die Schnittstelle OXID2gax für Ihren OXID eShop. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/System-Integration/ERP/OXID2GAX-1-0-PHP-5-3-Stable-PE-4-0-x-4-6-x.html",
+            "url": "",
+            "supported": [
+                "4.6",
+                "4.5",
+                "4.4",
+                "4.3",
+                "4.2",
+                "4.1.",
+                "4.0"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

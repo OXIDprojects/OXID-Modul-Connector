@@ -1,0 +1,36 @@
+{
+    "name": "Product CSV Export ",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-produkt-csv-export.png",
+    "price": "258.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Export all (or certain) Article of your shop now easily into a CSV file! ",
+        "de": "Exportieren Sie alle (oder bestimmte) Artikel Ihres Shops jetzt ganz einfach in eine CSV-Datei! "
+    },
+    "tags": [
+        "admin tools",
+        "backend",
+        "interfaces"
+    ],
+    "versions": {
+        "4.23": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Affiliate/CSV-article-export-4-11-Stable-EE-PE-4-7-x-5-0-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

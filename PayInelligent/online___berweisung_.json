@@ -1,0 +1,30 @@
+{
+    "name": "Online Überweisung ",
+    "vendor": "PayInelligent",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/online_ueberweisung_170x170px(3).png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Online Überweisung enables your customers to pay for their purchases quickly, easily and securely based on the PIN and TAN process used in online banking. Take advantage of quick payments, high security, and our favourable conditions! ",
+        "de": " Mit Online Überweisung können Ihre Kunden Einkäufe einfach, sicher und schnell bezahlen - wie beim Online-Banking. Profitieren Sie von einem schnellen Zahlungseingang, hoher Zahlungssicherheit und unseren günstigen Konditionen! "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Online-UEberweisung-1-0-1-Stable-CE-4-6-x.html",
+            "url": "",
+            "supported": [
+                "4.6"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Invoice via e-mail + Download",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-rechnung-per-email.png",
+    "price": "50.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " Send e-mails of a button from the shop backend or automatically by order or shipping confirmation to your customers - or / and you allow your customers to download their bills from the account out. ",
+        "de": " Versenden Sie E-Mails per Knopfdruck aus dem Shop-Backend oder automatisch mit Bestell- oder Versandbestätigung an Ihre Kunden - oder/und erlauben Sie Ihren Kunden den Download ihrer Rechnungen aus dem Kundenkonto heraus. "
+    },
+    "tags": [
+        "admin tools",
+        "backend",
+        "frontend",
+        "legal"
+    ],
+    "versions": {
+        "3.12": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/Invoice-via-e-mail-Download-3-5-Stable-PE-4-6-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

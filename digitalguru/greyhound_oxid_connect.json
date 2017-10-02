@@ -1,0 +1,32 @@
+{
+    "name": "GREYHOUND OXID Connect",
+    "vendor": "digitalguru",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/module-thumbnail.jpg",
+    "price": "0.00",
+    "license": "MIT",
+    "id": "",
+    "desc": {
+        "en": "Support module for the GREYHOUND OXID Connect addon. ",
+        "de": "Modul zur Unterstützung des GREYHOUND OXID Connect Addons. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.0.4 beta": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Customer-Management/GREYHOUND-OXID-Connect-1-0-2-OXID-eShop-CE-4-7-4-9-Beta-CE-4-4-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

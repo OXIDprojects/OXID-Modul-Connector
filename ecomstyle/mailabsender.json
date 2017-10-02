@@ -1,0 +1,32 @@
+{
+    "name": "MailAbsender",
+    "vendor": "ecomstyle",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/mailabsender170.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "The sender of the owner-order-email is the customer instead of the shopname. ",
+        "de": "Als Absender der Bestellmails wird der Name des Kunden verwendet "
+    },
+    "tags": [
+        "customer management"
+    ],
+    "versions": {
+        "1.3": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/MailAbsender-1-1-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

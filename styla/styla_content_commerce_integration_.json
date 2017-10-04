@@ -1,0 +1,31 @@
+{
+    "name": "Styla Content Commerce Integration ",
+    "vendor": "styla",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/styla-symbol-rgb-white.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " This module will integrate your OXID Shop with Styla, the Content Commerce Suite that automatically designs your content and makes it shoppable, inspiring your customers to buy more. ",
+        "de": " Dieses Modul verbindet Ihren OXID Shop mit Styla, der Content Commerce Suite, die Ihr Content-Design automatisiert und so ganz neue inspirierende Welten durch shopbare Inhalte erschafft. "
+    },
+    "tags": [
+        "content",
+        "interfaces"
+    ],
+    "versions": {
+        "1.5.4": {
+            "project": "https://exchange.oxid-esales.com/System-Integration/Content-Management-Systems-CMS/Styla-Content-Commerce-Integration-1-5-4-Stable-EE-PE-5-3-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

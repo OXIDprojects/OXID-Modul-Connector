@@ -1,0 +1,32 @@
+{
+    "name": "FATCHIP OXID idealo Checkout ",
+    "vendor": "fatchip",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/fc_oxid_idealo_direktkauf_produktbox_170px.png",
+    "price": "199.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Import orders from idealo Direktkauf (= idealo Checkout). ",
+        "de": "Importieren Sie mit diesem Plugin die Bestellungen aus idealo Direktkauf. "
+    },
+    "tags": [
+        "interfaces",
+        "marketing"
+    ],
+    "versions": {
+        "1.1.3": {
+            "project": "https://exchange.oxid-esales.com/Market-Places/Market-Places-and-Price-Comparison/FATCHIP-OXID-idealo-Checkout-1-1-2-Sourcecode-Stable-EE-PE-4-10-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

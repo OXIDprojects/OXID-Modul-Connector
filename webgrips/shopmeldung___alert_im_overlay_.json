@@ -1,0 +1,31 @@
+{
+    "name": "Shopmeldung - Alert im Overlay ",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-shop-meldung(1).png",
+    "price": "65.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "inform your clients about important stuff",
+        "de": "informieren Sie Ihre Kunden ganz aktuell über wichtige Dinge "
+    },
+    "tags": [
+        "frontend"
+    ],
+    "versions": {
+        "": {
+            "project": "https://exchange.oxid-esales.com/de/en/Marketing-und-Kampagnen/Produktmarketing/Shopmeldung-Alert-im-Overlay-1-01-Beta-EE-PE-4-10-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

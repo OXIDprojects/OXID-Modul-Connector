@@ -1,0 +1,35 @@
+{
+    "name": "Backup/Datensicherung",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-daten-backup.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Backup the entire shop database",
+        "de": "Sicherung der gesamten Shop-Datenbank "
+    },
+    "tags": [
+        "admin tools",
+        "backend"
+    ],
+    "versions": {
+        "": {
+            "project": "https://exchange.oxid-esales.com/de/en/Shopmanagement/Produktdaten/Datensicherung-1-01-Stable-EE-5-1-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

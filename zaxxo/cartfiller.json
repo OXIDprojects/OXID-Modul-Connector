@@ -1,0 +1,33 @@
+{
+    "name": "CartFiller",
+    "vendor": "zaxxo",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/cartfiller.jpg",
+    "price": "29.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Simply fill the shopping cart by specifying the item numbers in a link.",
+        "de": "Einfaches Befüllen des Warenkorb durch Angabe der Artikelnummern in einem Link. "
+    },
+    "tags": [
+        "checkout",
+        "frontend"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/CartFiller-1-0-0-Stable-CE-4-10-x-4-7-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Clear tmp in Admin",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-tmp-leeren.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": "Clean up the tmp folder with a click",
+        "de": "Leeren Sie das Tmp Verzeichnis per Knopfdruck. "
+    },
+    "tags": [
+        "admin tools",
+        "backend"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "https://exchange.oxid-esales.com/de/en/Shopmanagement/Shop-Admin/Tmp-leeren-im-Backend-1-01-Stable-EE-PE-4-10-x-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "4.9",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

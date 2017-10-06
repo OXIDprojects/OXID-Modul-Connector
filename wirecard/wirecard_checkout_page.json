@@ -1,0 +1,30 @@
+{
+    "name": "Wirecard Checkout Page",
+    "vendor": "wirecard",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/wirecard_logo_170x170.jpg",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " Wirecard Checkout Page supports all popular payment methods (credit cards, SEPA Direct Debit, invoice, etc.) and allows to safely accept payments while at the same time fulfilling PCI DSS compliance. ",
+        "de": " Wirecard Checkout Page bietet Ihnen die Möglichkeit, alle gängigen Zahlungsmittel (Kreditkarte, SEPA-Lastschrift, Kauf auf Rechnung usw.) sicher als eine PCI DSS konforme Bezahlung zu akzeptieren. "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "2.7.1": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Wirecard-Checkout-Page-2-6-3-Stable-CE-4-9-x-oxid.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

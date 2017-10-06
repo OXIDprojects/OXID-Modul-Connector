@@ -1,0 +1,35 @@
+{
+    "name": "ERP Connector",
+    "vendor": "oxid",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/erp.jpg",
+    "price": "1990.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The bi-directional interface enables data exchange between the shop and external systems (ERP, Accounting, etc.). It combines two protocol versions (SOAP / CSV) in one module and is further updatable with further features. ",
+        "de": " Die ERP-Schnittstelle ermöglicht den Datenaustausch zwischen dem Shop und externen Systemen (Warenwirtschaft, Finanzbuchhaltung etc.). Sie vereint 2 Protokoll-Versionen (SOAP/CSV) in einem Modul und ist mit neuen Funktionen individuell erweiterbar. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "2.14.1": {
+            "project": "https://exchange.oxid-esales.com/OXID-Products/ERP-Connector/ERP-Connector-2-14-1-for-PHP-5-4-Stable-EE-PE-4-7-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

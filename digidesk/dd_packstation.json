@@ -1,0 +1,37 @@
+{
+    "name": "dd_Packstation",
+    "vendor": "digidesk",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/dd_packstation_webicon_170x170.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": " The module packing station offers a feature that is advantageous in many shops used. If the customer / buyer would like to complete your order, stating his address, the store owner can provide the customer with the module packing station ",
+        "de": " Das Modul Packstation ermöglicht es, wenn der Besteller unter Angabe seiner Adresse die Bestellung abschließen möchte, die bestellten Artikel an eine Packstation liefern zu lassen. "
+    },
+    "tags": [
+        "checkout",
+        "frontend"
+    ],
+    "versions": {
+        "1.2.5": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/dd-Packstation-1-2-3-PHP-5-6-Stable-EE-PE-4-10-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "OXID Modul Shopsicherheit",
+    "vendor": "Zinit Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/modul_min.jpg",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": " The module is aimed at regular monitoring of the shop files’ integrity and informing the shop manager about possible problems per email. ",
+        "de": "Der Modul ermöglicht die regelmäßige Überprüfung der Datei-Integrität und informiert den Shop-Admin über die möglichen Probleme per E-Mail."
+    },
+    "tags": [
+        "admin tools",
+        "dev tools"
+    ],
+    "versions": {
+        "1.1.0": {
+            "project": "https://exchange.oxid-esales.com/Legal-and-Security/Security/OXID-Modul-Shopsicherheit-1-1-0-Stable-CE-4-7-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

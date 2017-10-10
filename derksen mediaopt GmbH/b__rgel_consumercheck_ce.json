@@ -1,0 +1,32 @@
+{
+    "name": "Bürgel ConsumerCheck CE",
+    "vendor": "derksen mediaopt GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo-buergel-2016-rgb_170x170(1).jpg",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Bürgel ConsumerCheck a real time credit check for private person ",
+        "de": "Bürgel ConsumerCheck Services ist eine Bonitätsprüfung in Echtzeit von Privatpersonen "
+    },
+    "tags": [
+        "checkout",
+        "interfaces"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "https://exchange.oxid-esales.com/Legal-and-Security/Risk-Management/Buergel-ConsumerCheck-CE-1-0-0-Stable-CE-4-7-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

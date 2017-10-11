@@ -1,0 +1,30 @@
+{
+    "name": "OXID Japanisch Frontend Sprachmodul ",
+    "vendor": " Shop-Uebersetzungen.de",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/b-flagge_34(1).png",
+    "price": "149.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Languagepack Japanese - certified (DIN EN 15038) (CE) ",
+        "de": "Sprachmodul Japanisch - certified (DIN EN 15038) (CE) "
+    },
+    "tags": [
+        "languages"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/International-Trade/Language-Modules/OXID-Japanisch-Frontend-CE-Sprachmodul-1-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "OXID Italienisch Frontend Sprachmodul ",
+    "vendor": " Shop-Uebersetzungen.de",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/b-flagge_39.png",
+    "price": "89.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Languagepack Italy - certified (DIN EN 15038) (CE) ",
+        "de": " Sprachmodul Italienisch - certified (DIN EN 15038) (CE) "
+    },
+    "tags": [
+        "frontend",
+        "languages"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/International-Trade/Language-Modules/OXID-Italienisch-Frontend-CE-Sprachmodul-1-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

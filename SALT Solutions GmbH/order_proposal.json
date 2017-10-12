@@ -1,0 +1,33 @@
+{
+    "name": "order proposal",
+    "vendor": "SALT Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/box_preis-vorschlag_23062015_170x170.jpg",
+    "price": "49.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "adds order proposals to cart items ",
+        "de": "Ergänzt die Warenkorbansicht um einen Bestellvorschlag als Spartipp"
+    },
+    "tags": [
+        "frontend",
+        "marketing"
+    ],
+    "versions": {
+        "1.0.2": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/order-proposal-CE-1-0-0-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

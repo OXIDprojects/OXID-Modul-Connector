@@ -1,0 +1,29 @@
+{
+    "name": "Test version: SIT-Import-Manager | article-, clientimport",
+    "vendor": "Schwinkendorf IT Systeme",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo-sit-import-manager-oxid-exchange.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "CE-Version | Imports articledata of all tabs | imports clients and groups | free testversion ",
+        "de": "CE-Version | Importiert Artikeldaten aller Reiter | Importiert Kundendaten und Gruppen | Kostenlose Testversion "
+    },
+    "tags": [
+        ""
+    ],
+    "versions": {
+        "": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Shop-Admin/SIT-Import-Manager-article-clientimport-SIT-Import-Manager-4-01-PHP-5-Stable-CE-4-0-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Magic 360",
+    "vendor": "Magic Toolbox",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/360-white-170(1).jpg",
+    "price": "99.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Display your products from every angle! Rotate images in 360 degrees so your customers can see exactly what they are buying. Viewers love Magic 360 because it is fast, responsive and works on all browsers and mobiles. ",
+        "de": "Zeigen Sie Ihre Produkte in 360 Grad! Kunden können genau sehen, was sie kaufen. Magie 360 wandelt eine A-Serie von Fotos in einer interaktiven Bild. Es ist schnell, reaktionsschnell und funktioniert auf allen Browsern und Mobiltelefone."
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "4.3.11": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Product-Marketing/Magic-360-CE-4-3-5-Stable-CE-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6",
+                "4.5",
+                "4.4",
+                "4.3",
+                "4.2",
+                "4.10",
+                "4.1",
+                "4.0"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

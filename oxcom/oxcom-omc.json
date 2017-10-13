@@ -16,6 +16,7 @@
             "project": "https://github.com/OXIDprojects/OXID-Module-Connector",
             "url": "https://github.com/OXIDprojects/OXID-Module-Connector/archive/module.zip",
             "supported": [
+		"6.0",
                 "5.3",
                 "5.2",
                 "5.1",

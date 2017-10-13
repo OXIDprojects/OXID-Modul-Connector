@@ -7,7 +7,7 @@
     "license": "Commercial",
     "id": "",
     "desc": {
-        "en": "Simply fill the shopping cart by specifying the item numbers in a link.",
+        "en": "Simply fill the shopping cart by specifying the item numbers in a link. ",
         "de": "Einfaches Befüllen des Warenkorb durch Angabe der Artikelnummern in einem Link. "
     },
     "tags": [
@@ -16,7 +16,7 @@
     ],
     "versions": {
         "1.0.0": {
-            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Order-Management/CartFiller-1-0-0-Stable-CE-4-10-x-4-7-x.html",
+            "project": "https://exchange.oxid-esales.com/de/Bestellprozess-und-Versand/Bestellprozess/CartFiller-1-0-0-Stable-CE-4-10-x-4-7-x.html",
             "url": "",
             "supported": [
                 "4.9",

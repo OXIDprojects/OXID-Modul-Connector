@@ -1,0 +1,30 @@
+{
+    "name": "Gift Certificate ",
+    "vendor": "egatemedia",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/payment_170x170px.png",
+    "price": "399.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Gift Certifcates are a strong buying incentive ",
+        "de": "Geschenk Gutscheine als Kaufanreiz "
+    },
+    "tags": [
+        "frontend",
+        "marketing"
+    ],
+    "versions": {
+        "4.6.0": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Bonuses-and-Campaigns/Geschenk-Gutschein-4-2-0-Stable-PE-4-6-x.html",
+            "url": "",
+            "supported": [
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

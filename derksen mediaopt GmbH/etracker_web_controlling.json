@@ -1,0 +1,33 @@
+{
+    "name": "etracker web-controlling",
+    "vendor": "derksen mediaopt GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/teaser_extension_etracker.png",
+    "price": "199.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "The etracker Extension gives you extensive insights on the characteristics of your customers. Only few parameters installed on the pages you want to track and you are provided with a lot of useful information. ",
+        "de": "Das Modul sorgt dafür, dass etracker alle Informationen vom Shop erhält, die für die Reports erforderlich sind. Dafür müssen diverse Parameter vom Shopsystem auf bestimmten Seiten und bei definierten Aktionen für etracker bereitgestellt werden."
+    },
+    "tags": [
+        "analytics",
+        "interfaces"
+    ],
+    "versions": {
+        "2.1.4": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Analysis-and-Controlling/etracker-web-controlling-2-0-2-Stable-EE-PE-4-5-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

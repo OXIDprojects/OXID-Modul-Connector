@@ -1,0 +1,37 @@
+{
+    "name": "Concardis PayEngine",
+    "vendor": "derksen mediaopt GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/170x170_concardis-logo-v03(1).jpg",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "The Concardis PayEngine Oxid Extension Extension allows you online shopping with a state of the art technology, including ten different payment methods within a layout of your choice. ",
+        "de": "Mit dem Concardis PayEngine Oxid-Modul können Sie Ihren Kunden eine nahtlose Kauferfahrung in Ihrem Look & Feel mit über zehn Bezahlmethoden bieten. "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "4.2.3": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/ConCardis-PayEngine-3-2-0-Stable-EE-PE-4-5-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.3",
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

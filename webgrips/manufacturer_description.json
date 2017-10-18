@@ -1,0 +1,33 @@
+{
+    "name": "Manufacturer Description",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-herstellerbeschreibung.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": "Give your manufacturers an individual description. ",
+        "de": "Erfassen Sie eine Beschreibung für Hersteller. "
+    },
+    "tags": [
+        "content",
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.00": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Product-Marketing/Manufacturer-Description-1-00-Stable-CE-4-10-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

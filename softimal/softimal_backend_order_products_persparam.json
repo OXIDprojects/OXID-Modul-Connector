@@ -1,0 +1,31 @@
+{
+    "name": "softimal Backend Order Products PersParam",
+    "vendor": "softimal",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/imagebackendorderart_persparam.png",
+    "price": "0.00",
+    "license": "GPL",
+    "id": "",
+    "desc": {
+        "en": "Now you can edit the personal parameter label for ordered products in the backend and determine the maximal length of this field. ",
+        "de": "Jetzt können Sie im Admin-Bereich Beschriftungen für bestellte Artikel editieren und die maximale Länge des Feldes festlegen. "
+    },
+    "tags": [
+        "",
+        "admin tools",
+        "backend"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Product-Information/softimal-Backend-Order-Products-PersParam-1-0-Stable-CE-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Cardininty",
+    "vendor": "click2sell",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Accept card payments in your store. Simplified process, the lowest price in the industry. ",
+        "de": "Akzeptieren Sie Kartenzahlungen in Ihrem Geschäft. Einfacher Prozess mit den niedrigsten Preisen der Branche. "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "1.0.1": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Accept-Card-Payments-Cardinity-1-0-1-Stable-CE-4-0-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.6",
+                "4.5",
+                "4.4",
+                "4.3",
+                "4.2",
+                "4.1.",
+                "4.0"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

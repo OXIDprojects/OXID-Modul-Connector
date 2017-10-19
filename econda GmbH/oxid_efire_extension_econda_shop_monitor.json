@@ -1,0 +1,30 @@
+{
+    "name": "OXID eFire Extension econda Shop Monitor",
+    "vendor": "econda GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/econda_logo_efire(2).jpg",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "High end web analytics for online shops",
+        "de": "Online-Shop Analyse und Optimierung mit dem econda Shop Monitor"
+    },
+    "tags": [
+        "analytics",
+        "interfaces"
+    ],
+    "versions": {
+        "2.0": {
+            "project": "https://exchange.oxid-esales.com/OXID-Products/OXID-eFire-Extensions/OXID-eFire-Extension-econda-Shop-Monitor-2-0-0-for-4-8-x-Stable-CE-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Green Theme // Dixeno Template",
+    "vendor": "DIXENO",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/template_green1-170.jpg",
+    "price": "59.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "2-column Theme for OXID e-Shop //Themecolor: green",
+        "de": "2-spaltiges Theme für OXID e-Shop // Themefarbe: grün"
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "4.9": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Frontend-Templates/Green-Theme-Dixeno-Template-4-9-Stable-CE-4-5-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

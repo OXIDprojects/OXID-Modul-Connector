@@ -1,0 +1,30 @@
+{
+    "name": "smxDynNAV2OXID",
+    "vendor": "shoptimax",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/smxdynnav2oxid_shoptimax_ox(1).jpg",
+    "price": "2950.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Microsoft Dynamics Navision Connector.",
+        "de": "Microsoft Dynamics Navision Schnittstelle. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.2": {
+            "project": "https://exchange.oxid-esales.com/System-Integration/ERP/smxDynNAV2OXID-1-2-Stable-EE-PE-4-9-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

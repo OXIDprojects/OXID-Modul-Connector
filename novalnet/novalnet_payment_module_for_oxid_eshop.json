@@ -1,0 +1,30 @@
+{
+    "name": "Novalnet payment module for OXID eShop",
+    "vendor": "novalnet",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/novalnet170.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Payment module for OXID eShops powered by payment service provider Novalnet AG for a wide range of payment types",
+        "de": "Zahlungsschnittstelle für OXID eShops von Payment Service Provider Novalnet AG für alle gängigen Zahlungsarten"
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "10.0": {
+            "project": "https://exchange.oxid-esales.com/Order-and-Delivery/Payment/Novalnet-payment-module-for-OXID-eShop-CE-3-0-0-Stable-CE-4-8-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

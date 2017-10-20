@@ -1,0 +1,29 @@
+{
+    "name": "E-POST Module",
+    "vendor": " EXONN UG",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/e-post_box(1).jpg",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Send letters from your OXID eShop Admin",
+        "de": "Briefe aus Ihrem OXID eShop Admin versenden"
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.0.3934": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Shop-Admin/E-POST-Module-1-0-3934-Stable-EE-5-3-x.html",
+            "url": "",
+            "supported": [
+                "5.3"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

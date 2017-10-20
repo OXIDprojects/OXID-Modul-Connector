@@ -1,0 +1,30 @@
+{
+    "name": "Fantasy Template ",
+    "vendor": "steinwebdesign",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/fantasy.jpg",
+    "price": "200.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "\"Fantasy\" is an Azure based template ",
+        "de": "\"Fantasy\" ist ein auf Azure basierendes Template"
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Frontend-Templates/Fantasy-Template-1-0-Stable-CE-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.8"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

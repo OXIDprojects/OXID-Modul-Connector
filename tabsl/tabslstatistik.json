@@ -4,7 +4,7 @@
 	"id": "",
     "type": "oxid",
     "picture": "",
-    "price": "49.00",
+    "price": "79.00",
     "license": "Commercial",
     "desc": {
         "en": "Display relevant information of your stock and gross earning.",
@@ -20,9 +20,11 @@
             "project": "http://www.oxid-module.eu/module/tabsl-statistik/",
             "url": "",
             "supported": [
+                "5.3",
                 "5.2",
                 "5.1",
                 "5.0",
+                "4.10",
                 "4.9",
                 "4.8",
                 "4.7"

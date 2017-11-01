@@ -1,0 +1,33 @@
+{
+    "name": "psSelectlistOrder",
+    "vendor": "proudcommerce",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/psselectlistorder.jpg",
+    "price": "99.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "",
+        "de": "Mit dem OXID Auswahllisten Modul psSelectlistOrder haben Sie die Möglichkeit eine globale Sortierung (Reihenfolge) der Auswahllisten zu pflegen. "
+    },
+    "tags": [
+        "admin tools",
+        "backend"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://exchange.oxid-esales.com/de/en/Frontend-und-User-Experience/Produktdarstellung/psSelectlistOrder-CE-1-0-0-Stable-CE-4-10-x-4-7-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

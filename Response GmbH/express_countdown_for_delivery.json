@@ -1,0 +1,32 @@
+{
+    "name": "Express Countdown for Delivery",
+    "vendor": "Response GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/countdown.jpg",
+    "price": "79.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Module to create a shipping countdown for the product page",
+        "de": "Modul zum Erstellen eines Versand Countdowns für die Produktseite "
+    },
+    "tags": [
+        "frontend",
+        "product presentation"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Product-Presentation/Express-Countdown-for-Delivery-1-0-0-Stable-CE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

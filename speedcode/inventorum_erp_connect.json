@@ -1,0 +1,31 @@
+{
+    "name": "Inventorum ERP Connect",
+    "vendor": "speedcode",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/speedcode_inventorumconnect.png",
+    "price": "399.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Integrate Inventorum and import everything with one touch.Orders are directly submitted to Inventorum and stocks get updated immidiately. ",
+        "de": "Integrieren Sie ihr Inventorum und importieren Sie all Ihre Artikel per Knopfdruck. Bestellungen im OXID landen direkt im Inventorum und die Bestände aus Ihrer WaWi werden abgeglichen. "
+    },
+    "tags": [
+        "interfaces"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://exchange.oxid-esales.com/System-Integration/ERP/Inventorum-ERP-Connect-1-0-0-Stable-CE-4-0-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

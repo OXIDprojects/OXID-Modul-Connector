@@ -1,0 +1,31 @@
+{
+    "name": "Bitcoin Bezahlung",
+    "vendor": "itholics",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/logo_bitcoin(1).png",
+    "price": "499.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "This module enables to pay with Bitcoin",
+        "de": "Dieses Modul ermöglicht die Zahlung per Bitcoin in Ihrem Shop. Sie legen einfach die Adressen fest auf welchen die Zahlungen eingehen sollen. Bitcoin wird nicht als Währung sondern als Zahlungsart verwendet. "
+    },
+    "tags": [
+        "interfaces",
+        "payment"
+    ],
+    "versions": {
+        "1.1": {
+            "project": "https://exchange.oxid-esales.com/de/en/Internationaler-Handel/Fremdwaehrung/Bitcoin-Bezahlung-CE-1-1-Stable-CE-4-9-x-5-3-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

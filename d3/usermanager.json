@@ -1,0 +1,33 @@
+{
+    "name": "Usermanager",
+    "vendor": "d3",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/kundenmanager.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Execute periodical tasks with automatic recurring rules ",
+        "de": "Bearbeiten Sie immer wiederkehrende Aufgaben mit automatisch wiederkehrenden Regeln. "
+    },
+    "tags": [
+        "admin tools",
+        "backend",
+        "logistics"
+    ],
+    "versions": {
+        "2.3.0.0": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Customer-Management/Usermanager-2-3-0-0-PE-Standard-Stable-PE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

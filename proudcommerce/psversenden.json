@@ -1,28 +1,25 @@
 {
     "name": "psVersenden",
     "vendor": "proudcommerce",
-	"id": "psVersenden",
     "type": "oxid",
-    "picture": "https://www.proudcommerce.com/out/pictures/generated/product/1/100_150_100/psversenden_oxid-module_proudcommerce_1.jpg",
-    "price": "99.00",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/psversenden.jpg",
+    "price": "299.00",
     "license": "Commercial",
+    "id": "",
     "desc": {
         "en": "",
-        "de": "Mit dem OXID Modul psVersenden können automatisch Import- und Export-Dateien für das DHL Geschäftskundenportal / DHL VERSENDEN generiert werden."
+        "de": "Mit dem OXID Versandmodul psVersenden ist es möglich Paketaufkleber mit dem DHL Polling-Client bzw. DHL Geschäftskundenportal (Nachfolger DHL Easylog) automatisch zu generieren/drucken und diese wieder in den Shop zu importieren."
     },
     "tags": [
-        "backend",
+        "checkout",
+        "interfaces",
         "logistics"
     ],
     "versions": {
-        "1.0.0": {
-            "project": "https://www.proudcommerce.com/OXID-Module/psVersenden.html",
+        "3.1.0": {
+            "project": "https://exchange.oxid-esales.com/de/en/Shopmanagement/Shop-Admin/psVersenden-CE-3-1-0-Stable-CE-4-10-x-4-7-x.html",
             "url": "",
             "supported": [
-                "5.3",
-                "5.2",
-                "5.1",
-                "5.0",
                 "4.9",
                 "4.8",
                 "4.7",

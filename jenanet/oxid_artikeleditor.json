@@ -1,0 +1,30 @@
+{
+    "name": "OXID Artikeleditor",
+    "vendor": "jenanet",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/unbenannt-2.jpg",
+    "price": "99.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Hier finden Sie eine elegante Lösung, um Artikel Ihres OXID Shops schnell und Übersichtlich anzulegen und zu pflegen. Probieren Sie es einfach aus. ",
+        "de": "Hier finden Sie eine elegante Lösung, um Artikel Ihres OXID Shops schnell und Übersichtlich anzulegen und zu pflegen. Probieren Sie es einfach aus."
+    },
+    "tags": [
+        "admin tools"
+    ],
+    "versions": {
+        "": {
+            "project": "https://exchange.oxid-esales.com/OXID-Artikeleditor-CE-0-Stable-CE-4-4-x-5-1-x.html",
+            "url": "",
+            "supported": [
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

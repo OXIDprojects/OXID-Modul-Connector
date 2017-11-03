@@ -1,0 +1,30 @@
+{
+    "name": "Slider with clicable zones",
+    "vendor": "Zinit Solutions GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/slider170170.png",
+    "price": "50.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "This module is used for the creation of links and titels directly through images, if the image is navigated by the mouse. ",
+        "de": "Dieses Modul dient für die Erstellung der Links direkt durch Bilder und Titeln, wenn das Bild bewegen ist. "
+    },
+    "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "2.0.1": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Search-Navigation-and-Filters/Slider-with-clicable-zones-2-0-1-Stable-CE-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

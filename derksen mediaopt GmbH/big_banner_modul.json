@@ -1,0 +1,36 @@
+{
+    "name": "Big Banner Modul",
+    "vendor": "derksen mediaopt GmbH",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/big_banner.png",
+    "price": "169.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Module for placement of banners in the product lists.",
+        "de": "Modul zur Platzierung von Eigenwerbung in den Artikellisten."
+    },
+    "tags": [
+        "frontend",
+        "marketing",
+        "themes"
+    ],
+    "versions": {
+        "0.9": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Product-Presentation/Big-Banner-Modul-0-9-Sourcecode-Stable-EE-PE-4-7-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

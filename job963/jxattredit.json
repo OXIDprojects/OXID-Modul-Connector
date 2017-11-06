@@ -1,35 +1,32 @@
 {
     "name": "jxAttrEdit",
     "vendor": "job963",
-	"id": "jxattredit",
     "type": "oxid",
-    "picture": "https://raw.githubusercontent.com/job963/jxAttrEdit/master/copy_this/modules/jxattredit/jxattredit.png",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/jxattredit.png",
     "price": "0.00",
-    "license": "GNU",
+    "license": "GPL",
+    "id": "",
     "desc": {
-        "de": "Admin-Modul für das Bearbeiten aller Artikel Attibute auf einer Seite",
-        "en": "Module for editing all product attributes on one page"
+        "en": "With jxAttrEdit you can edit all attributes of an product on one page",
+        "de": "jxAttrEdit ermöglicht die Bearbeitung aller Attribute auf einmal "
     },
     "tags": [
-        "backend",
-        "admin tools"
+        "admin tools",
+        "backend"
     ],
     "versions": {
         "0.4.5": {
-            "project": "https://github.com/job963/jxAttrEdit",
-            "url": "https://github.com/job963/jxAttrEdit/archive/v0.4.5.zip",
+            "project": "https://exchange.oxid-esales.com/jxAttrEdit-0-3-Stable-CE-4-7-x.html",
+            "url": "",
             "supported": [
-                "4.10",
                 "4.9",
                 "4.8",
                 "4.7"
             ],
-            "mapping": [
-                {
-                    "src": "copy_this/modules/jxattredit/",
-                    "dest": "modules/jxattredit/"
-                }
-            ]
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
         }
     }
 }

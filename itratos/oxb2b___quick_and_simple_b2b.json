@@ -1,0 +1,32 @@
+{
+    "name": "OXB2B - Quick and Simple B2B",
+    "vendor": "itratos",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/b2b_oxid(1).png",
+    "price": "19.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "OXB2B - Quick & Simple B2B ",
+        "de": "Quick & Simple B2B ist ein einfacher B2B Modus für die Gruppe Händler. Nach dem Login erhalten die Benutzer dieser Gruppe Nettopreisangaben im Shop. "
+    },
+    "tags": [
+        "",
+        "calculation",
+        "customer management"
+    ],
+    "versions": {
+        "1.0": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Price-Management/OXB2B-Quick-and-Simple-B2B-1-0-Stable-CE-4-7-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

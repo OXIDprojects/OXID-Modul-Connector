@@ -1,0 +1,31 @@
+{
+    "name": "Customize your Invoice (PDF) ",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-rechnung-editor.png",
+    "price": "0.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "With this extension you can edit various text fields in the invoice PDF",
+        "de": "Bearbeiten Sie verschiedene Textbereiche im Rechnungs-PDF"
+    },
+    "tags": [
+        "admin tools"
+    ],
+    "versions": {
+        "3.02": {
+            "project": "https://exchange.oxid-esales.com/Shop-Management/Customer-Management/Adjustment-of-the-invoice-pdf-3-01-Stable-PE-4-7-x-4-9-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

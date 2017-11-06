@@ -1,0 +1,36 @@
+{
+    "name": "B2B Benutzergruppen ",
+    "vendor": "egatemedia",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/b2b_170x170px.png",
+    "price": "149.00",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "Combines B2C and B2B mode ",
+        "de": "Kombinierter B2C und B2B Betrieb Ihres Shops"
+    },
+    "tags": [
+        "",
+        "calculation",
+        "customer management"
+    ],
+    "versions": {
+        "2.4.0": {
+            "project": "https://exchange.oxid-esales.com/Marketing-and-Campaigns/Price-Management/B2B-Benutzergruppen-2-4-0-Stable-EE-PE-4-7-x-5-2-x.html",
+            "url": "",
+            "supported": [
+                "5.2",
+                "5.1",
+                "5.0",
+                "4.9",
+                "4.8",
+                "4.7"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Customer Export",
+    "vendor": "webgrips",
+    "type": "oxid",
+    "picture": "https://exchange.oxid-esales.com/out/pictures/generated/product/icon/170_170_75/oxid-modul-kunden-export-csv.png",
+    "price": "123.50",
+    "license": "Commercial",
+    "id": "",
+    "desc": {
+        "en": "coming soon ",
+        "de": "Exportieren Sie Ihre Kundendaten in einer Datei. "
+    },
+    "tags": [
+        "admin tools",
+        "backend",
+        "customer management"
+    ],
+    "versions": {
+        "1.02": {
+            "project": "https://exchange.oxid-esales.com/Frontend-and-User-Experience/Usability/1-01-Stable-CE-4-10-x-4-8-x.html",
+            "url": "",
+            "supported": [
+                "4.9",
+                "4.8",
+                "4.10"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

@@ -1,10 +1,19 @@
 {
-  "name": "oxidprojects/oxid-module-connector",
-  "type":"library",
-  "description": "OXID Module Connector Module",
-  "keywords":["OXID", "modules", "ioly", "connector"],
-  "license": "MIT",
-  "require": {
-    "php": ">=5.3.3"
+  "name": "oxid-community/modul-connector",
+  "description": "OXID Community",
+  "type": "oxideshop-module",
+  "keywords": [
+    "oxid",
+    "modules",
+    "connector"
+  ],
+  "homepage": "https://github.com/OXIDprojects/OXID-Module-Connector",
+  "license": [
+    "MIT"
+  ],
+  "extra": {
+    "oxideshop": {
+      "target-directory": "oxcom/oxcom-omc"
+    }
   }
 }

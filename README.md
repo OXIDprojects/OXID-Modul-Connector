@@ -6,7 +6,7 @@ OXID Module Connector (OMC) displays available modules and a short description, 
 
 ## Installation
 
-Installing OMC is as easy as installing any other OXID eShop module. Please note the [system requirements](https://github.com/OXIDprojects/OXID-Module-Connector/wiki/System-requirements) for this project and read the detailed [installation instructions in our wiki](https://github.com/OXIDprojects/OXID-Module-Connector/wiki/Installation) for more information.
+Installing OMC is as easy as installing any other OXID eShop module or using composer. Please note the [system requirements](https://github.com/OXIDprojects/OXID-Module-Connector/wiki/System-requirements) for this project and read the detailed [installation instructions in our wiki](https://github.com/OXIDprojects/OXID-Module-Connector/wiki/Installation) for more information.
 
 ## Disclaimer
 

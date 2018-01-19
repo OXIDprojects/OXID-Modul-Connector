@@ -11,7 +11,7 @@
         "de": "Erweitert die Rechnung um einen QR Bezahlcode."
     },
     "tags": [
-	"backend"
+	"backend",
         "payment"
     ],
     "versions": {

@@ -1,0 +1,34 @@
+{
+    "name": "WordPress2OXID Responsive",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/flow_wordpress_blog_oxid.jpg",
+    "price": 238,
+    "license": "Commercial",
+    "desc": {
+        "de": "Erm\u00f6glicht eine problemlose WordPress-Integration in den OXID eShop bei Verwendung des OXID Themes Flow oder des eComThemes (responsive Themes)",
+        "en": ""
+    },
+    "tags": [
+        "frontend",
+        "marketing",
+        "SEO",
+        "interfaces"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/wordpress2oxid-responsive.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

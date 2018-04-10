@@ -1,0 +1,33 @@
+{
+    "name": "AdminRights",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_rechteverwaltung.png",
+    "price": 59.5,
+    "license": "Commercial",
+    "desc": {
+        "de": "Individuelle Rechtevergabe f\u00fcr Shopadmins",
+        "en": ""
+    },
+    "tags": [
+        "backend",
+        "admin tools",
+        "customer management"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/adminrights.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

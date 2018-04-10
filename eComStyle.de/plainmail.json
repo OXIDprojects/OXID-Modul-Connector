@@ -1,0 +1,34 @@
+{
+    "name": "PlainMail",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_plainmail_html_nexus5_modul.png",
+    "price": 59.5,
+    "license": "Commercial",
+    "desc": {
+        "de": "Optimiert die Plainmails (=Nur-Text-Mails) und generiert auf Wunsch html-Mails im Plain-Style! Diese sind auf jedem Endger\u00e4t und auf jeder Displaygr\u00f6sse bestens lesbar.",
+        "en": ""
+    },
+    "tags": [
+        "frontend",
+        "payment",
+        "themes",
+        "checkout"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/plainmail.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

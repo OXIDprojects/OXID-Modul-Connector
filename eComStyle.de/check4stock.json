@@ -1,0 +1,35 @@
+{
+    "name": "Check4Stock",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/check4stock.png",
+    "price": 29.75,
+    "license": "Commercial",
+    "desc": {
+        "de": "Bei Lieferstatus Standard sind keine \u00dcberbestellungen im Frontend mehr m\u00f6glich, im Adminbereich hingegen schon.",
+        "en": ""
+    },
+    "tags": [
+        "backend",
+        "admin tools",
+        "checkout",
+        "product presentation",
+        "calculation"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/check4stock.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

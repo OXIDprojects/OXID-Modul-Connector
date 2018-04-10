@@ -1,0 +1,35 @@
+{
+    "name": "GruppenPreise",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_kundengruppen_preise.png",
+    "price": 119,
+    "license": "Commercial",
+    "desc": {
+        "de": "Individuelle Gruppenpreise inkl. Staffelpreise f\u00fcr Gruppen bequem in der Artikelverwaltung pflegen.",
+        "en": ""
+    },
+   "tags": [
+        "frontend",
+        "backend",
+        "calculation",
+        "customer management",
+        "marketing"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/gruppenpreise.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

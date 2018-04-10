@@ -1,0 +1,32 @@
+{
+    "name": "Hamburg",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/hamburg_nivo_slider.jpg",
+    "price": 119,
+    "license": "Commercial",
+    "desc": {
+        "de": "Exklusives OXID eShop Theme mt seitlicher Navigation",
+        "en": ""
+    },
+   "tags": [
+        "frontend",
+        "themes"
+    ],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/hamburg.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

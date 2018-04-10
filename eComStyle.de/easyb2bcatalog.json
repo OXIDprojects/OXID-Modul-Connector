@@ -1,0 +1,29 @@
+{
+    "name": "easyB2B Catalog",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_modul_b2b_catalog.png",
+    "price": 59.5,
+    "license": "Commercial",
+    "desc": {
+        "de": "Neukunden werden nach der Registrierung vom Shopadmin freigeschalten. Erst dann werden Preise angezeigt und Bestellungen erm\u00f6glicht.",
+        "en": ""
+    },
+    "tags": [],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/easyb2b-catalog.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

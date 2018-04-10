@@ -1,0 +1,29 @@
+{
+    "name": "Staffelpreise",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_modul_staffelpreise.png",
+    "price": 29.75,
+    "license": "Commercial",
+    "desc": {
+        "de": "Zeigen Sie die Mengenstaffelpreise oder Mengenrabatte direkt beim Artikelpreis an!",
+        "en": ""
+    },
+    "tags": [],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/staffelpreise.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

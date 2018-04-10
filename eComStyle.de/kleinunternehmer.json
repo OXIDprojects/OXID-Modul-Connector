@@ -1,0 +1,29 @@
+{
+    "name": "Kleinunternehmer",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_kleinunternehmer_flow.png",
+    "price": 59.5,
+    "license": "Commercial",
+    "desc": {
+        "de": "Anpassung des OXID eShops f\u00fcr Kleinunternehmer mit einem Klick, passend zB. f\u00fcr die Themes Flow, Azure, eComTheme, und weitere.",
+        "en": ""
+    },
+    "tags": [],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/kleinunternehmer.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

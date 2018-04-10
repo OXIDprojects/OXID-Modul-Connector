@@ -1,0 +1,29 @@
+{
+    "name": "SEO-Tools",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_eshop_seo_tools_settings.png",
+    "price": 59.5,
+    "license": "Commercial",
+    "desc": {
+        "de": "Optimiert SEO-Url\u00b4s nach Ihren Vorgaben, erm\u00f6glicht es, SEO-Titel vorzugeben, bindet Metadaten wie Bewertungen und vCard ein und minimiert den Quellcode.",
+        "en": ""
+    },
+    "tags": [],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/seo-tools.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

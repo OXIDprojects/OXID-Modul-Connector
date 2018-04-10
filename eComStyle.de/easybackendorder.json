@@ -1,0 +1,29 @@
+{
+    "name": "easyBackendOrder",
+    "vendor": "eComStyle.de",
+    "id": "",
+    "type": "oxid",
+    "picture": "https://ecomstyle.de/out/pictures/generated/product/1/380_380_90/oxid_modul_backend_order_benutzer.png",
+    "price": 89.25,
+    "license": "Commercial",
+    "desc": {
+        "de": "Bestellungen einfach im Backend anlegen, Bestellbest\u00e4tigungen jederzeit versenden, freie Artikel in der Bestellung - mit diesem Modul wird der OXID eShop zur Wawi!",
+        "en": ""
+    },
+    "tags": [],
+    "versions": {
+        "1.0.0": {
+            "project": "https://ecomstyle.de/easybackendorder.html",
+            "url": "",
+            "supported": [
+                "6.0",
+                "4.10",
+                "4.9"
+            ],
+            "mapping": {
+                "src": "",
+                "dest": ""
+            }
+        }
+    }
+}

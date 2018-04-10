@@ -10,7 +10,11 @@
         "de": "Eine Zahlungsart erst ab einer w\u00e4hlbaren Anzahl an Bestellungen anbieten",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "payment",
+        "customer management"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/zahlartabbestellung.html",

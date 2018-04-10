@@ -10,7 +10,13 @@
         "de": "Beim Erstbesuch des Shops Wahl ob Privat- oder Gesch\u00e4ftskunde. Inkl. automatischer Gruppenzuordnung anhand Firmenname/USt.ID und entsprechender Preisauszeichnung.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "marketing",
+        "legal",
+        "product presentation",
+        "customer management"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/easyb2b.html",

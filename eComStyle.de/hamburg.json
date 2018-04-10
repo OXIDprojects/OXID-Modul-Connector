@@ -10,7 +10,10 @@
         "de": "Exklusives OXID eShop Theme mt seitlicher Navigation",
         "en": ""
     },
-    "tags": [],
+   "tags": [
+        "frontend",
+        "themes"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/hamburg.html",

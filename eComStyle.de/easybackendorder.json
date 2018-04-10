@@ -10,7 +10,14 @@
         "de": "Bestellungen einfach im Backend anlegen, Bestellbest\u00e4tigungen jederzeit versenden, freie Artikel in der Bestellung - mit diesem Modul wird der OXID eShop zur Wawi!",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "backend",
+        "admin tools",
+        "checkout",
+        "product presentation",
+        "payment",
+        "customer management"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/easybackendorder.html",

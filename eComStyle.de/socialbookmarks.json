@@ -10,7 +10,11 @@
         "de": "Social Bookmarks bei den Artikeldetails einf\u00fcgen",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "SEO",
+        "product presentation"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/socialbookmarks.html",

@@ -10,7 +10,13 @@
         "de": "Individuelle Gruppenpreise inkl. Staffelpreise f\u00fcr Gruppen bequem in der Artikelverwaltung pflegen.",
         "en": ""
     },
-    "tags": [],
+   "tags": [
+        "frontend",
+        "backend",
+        "calculation",
+        "customer management",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/gruppenpreise.html",

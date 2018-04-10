@@ -10,7 +10,11 @@
         "de": "Individuelle Rechtevergabe f\u00fcr Shopadmins",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "backend",
+        "admin tools",
+        "customer management"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/adminrights.html",

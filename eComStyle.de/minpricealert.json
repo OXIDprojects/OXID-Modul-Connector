@@ -10,7 +10,11 @@
         "de": "Sie k\u00f6nnen einen Mindestpreis in % vom Artikelpreis f\u00fcr den Preisalarm vorgeben, um sinnlose Anfragen zu vermeiden ",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "product presentation",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/minpricealert.html",

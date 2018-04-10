@@ -10,7 +10,11 @@
         "de": "Anzeige einer Zahlungsaufforderung und der Bankverbindung bei der Zahlungsart Vorkasse und Anzeige von Downloadlinks auf der ThankYou-Seite",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "payment",
+        "checkout"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/thankyou.html",

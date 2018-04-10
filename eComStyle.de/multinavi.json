@@ -10,7 +10,12 @@
         "de": "Multilevel-Topnavigation zur \u00fcbersichtlichen Darstellung der verf\u00fcgbaren Kategorien und Unterkategorien,",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "product presentation",
+        "search",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/multinavi.html",

@@ -10,7 +10,11 @@
         "de": "Alternative Umsetzung der Cookie-Richtlinie mit vielen Einstellm\u00f6glichkeiten",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "themes",
+        "legal"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/cookieconsent.html",

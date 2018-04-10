@@ -10,7 +10,12 @@
         "de": "Optimiert die Plainmails (=Nur-Text-Mails) und generiert auf Wunsch html-Mails im Plain-Style! Diese sind auf jedem Endger\u00e4t und auf jeder Displaygr\u00f6sse bestens lesbar.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "payment",
+        "themes",
+        "checkout"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/plainmail.html",

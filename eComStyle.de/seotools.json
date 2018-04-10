@@ -10,7 +10,12 @@
         "de": "Optimiert SEO-Url\u00b4s nach Ihren Vorgaben, erm\u00f6glicht es, SEO-Titel vorzugeben, bindet Metadaten wie Bewertungen und vCard ein und minimiert den Quellcode.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "SEO",
+        "product presentation",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/seo-tools.html",

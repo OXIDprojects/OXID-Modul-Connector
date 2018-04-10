@@ -10,7 +10,13 @@
         "de": "Mit einen Klick professionelle PDF-Belege erzeugen und als Emailanhang in einer personalisierten, bestellbezogenen Email versenden.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "backend",
+        "calculation",
+        "admin tools",
+        "marketing",
+        "customer management"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/easydocuments.html",

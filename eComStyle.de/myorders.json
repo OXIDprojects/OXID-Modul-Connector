@@ -10,7 +10,11 @@
         "de": "Erweiterte Bestellhistorie mit Zahlungs- und Versandinfos.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "payment",
+        "checkout"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/myorders.html",

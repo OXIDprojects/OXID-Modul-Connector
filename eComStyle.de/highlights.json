@@ -10,7 +10,12 @@
         "de": "Hervorheben von Artikeln mit passenden Icons (Neu, Rabatt, Topseller, Gratisversand und Hot!)",
         "en": ""
     },
-    "tags": [],
+   "tags": [
+        "frontend",
+        "themes",
+        "product presentation",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/highlights.html",

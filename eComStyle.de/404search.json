@@ -10,7 +10,12 @@
         "de": "Intelligente Umleitung auf eine informative Seite mit passenden Artikelvorschl\u00e4gen, wenn eine nicht auffindbare URL aufgerufen wurde.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "search",
+        "marketing",
+        "SEO"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/404-search.html",

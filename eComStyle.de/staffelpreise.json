@@ -10,7 +10,12 @@
         "de": "Zeigen Sie die Mengenstaffelpreise oder Mengenrabatte direkt beim Artikelpreis an!",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "payment",
+        "product presentation",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/staffelpreise.html",

@@ -10,7 +10,12 @@
         "de": "G\u00fcltigkeit von Downloadartikeln in Bestellungen bearbeiten und l\u00f6schen von Downloadartikeln in der Artikelverwaltung auch dann, wenn es noch aktive Downloads gibt",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "backend",
+        "admin tools",
+        "customer management",
+        "checkout"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/optimizedownloads.html",

@@ -10,7 +10,12 @@
         "de": "Ein zus\u00e4tzlicher Zahlungsarten-Aufschlag erm\u00f6glicht die korrekte Weitergabe der Payment-Geb\u00fchren an den Kunden. ",
         "en": ""
     },
-    "tags": [],
+   "tags": [
+        "payment",
+        "checkout",
+        "calculation",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/zahlartenaufschlag.html",

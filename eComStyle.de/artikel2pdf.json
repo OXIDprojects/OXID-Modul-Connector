@@ -10,7 +10,12 @@
         "de": "Automatisches PDF-Artikeldatenblatt. Die PDF wird (wie das eShop-Theme) aus einer TPL-Vorlage erstellt, und kann mit Smarty, html und CSS einfach angepasst werden.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "marketing",
+        "product presentation",
+        "themes"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/artikel2pdf.html",

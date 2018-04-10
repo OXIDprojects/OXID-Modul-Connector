@@ -10,7 +10,12 @@
         "de": "Shopbesucher (und Admins) k\u00f6nnen den Inhalt Ihres Warenkorbs als Angebot ausdrucken",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "marketing",
+        "checkout",
+        "product presentation"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/angebotdrucken.html",

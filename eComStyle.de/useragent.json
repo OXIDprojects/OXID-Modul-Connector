@@ -10,7 +10,11 @@
         "de": "Modul zur Abfrage und Ausgabe des UserAgents (zB. iphone, android) oder DeviceTypes (Mobile o. Desktop).",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "customer management",
+        "themes"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/useragent.html",

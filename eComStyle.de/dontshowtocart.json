@@ -10,7 +10,11 @@
         "de": "In den Listenansichten wird immer der MEHR INFO-Button anstelle des WARENKORB-Buttons angezeigt ",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "product presentation",
+        "legal"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/dontshowtocart.html",

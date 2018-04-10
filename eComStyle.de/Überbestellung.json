@@ -10,7 +10,12 @@
         "de": "Werden mehr Artikel bestellt, als lagernd sind, erscheint ein Hinweis im Warenkorb.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "product presentation",
+        "checkout",
+        "calculation"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/ueberbestellung.html",

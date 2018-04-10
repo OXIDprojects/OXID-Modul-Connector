@@ -10,7 +10,12 @@
         "de": "Anpassung des OXID eShops f\u00fcr Kleinunternehmer mit einem Klick, passend zB. f\u00fcr die Themes Flow, Azure, eComTheme, und weitere.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "themes",
+        "legal",
+        "marketing"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/kleinunternehmer.html",

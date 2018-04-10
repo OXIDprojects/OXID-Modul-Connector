@@ -10,7 +10,13 @@
         "de": "Sie erg\u00e4nzen oder \u00e4ndern die Styles Ihres Responsive-Themes (zB. Flow) bequem im Adminbereich, lessphp4OXID erzeugt per Klick eine optimierte CSS-Datei f\u00fcr den Shop.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "themes",
+        "admin tools",
+        "dev tools",
+        "backend"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/lessphp4oxid.html",

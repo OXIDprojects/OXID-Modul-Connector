@@ -10,7 +10,10 @@
         "de": "Buttons zum \u00c4ndern der Artikelmengen im Warenkorb",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "checkout"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/warenkorbmenge.html",

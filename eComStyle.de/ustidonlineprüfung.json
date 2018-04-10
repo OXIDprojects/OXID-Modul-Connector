@@ -10,7 +10,15 @@
         "de": "Qualifizierte Pr\u00fcfung der Umsatzsteuer-ID in Front- und Backend bei EU-Kunden mit detaillierter Fehlerausgabe und amtl. Best\u00e4tigung per Post ",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "backend",
+        'admin tools",
+        "legal",
+        "frontend",
+        "customer management",
+        "interfaces",
+        "calculation"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/ust-id-onlinepruefung.html",

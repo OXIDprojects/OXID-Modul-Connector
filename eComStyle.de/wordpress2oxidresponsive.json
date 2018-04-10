@@ -10,7 +10,12 @@
         "de": "Erm\u00f6glicht eine problemlose WordPress-Integration in den OXID eShop bei Verwendung des OXID Themes Flow oder des eComThemes (responsive Themes)",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "frontend",
+        "marketing",
+        "SEO",
+        "interfaces"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/wordpress2oxid-responsive.html",

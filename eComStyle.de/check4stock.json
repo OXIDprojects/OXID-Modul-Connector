@@ -10,7 +10,13 @@
         "de": "Bei Lieferstatus Standard sind keine \u00dcberbestellungen im Frontend mehr m\u00f6glich, im Adminbereich hingegen schon.",
         "en": ""
     },
-    "tags": [],
+    "tags": [
+        "backend",
+        "admin tools",
+        "checkout",
+        "product presentation",
+        "calculation"
+    ],
     "versions": {
         "1.0.0": {
             "project": "https://ecomstyle.de/check4stock.html",
